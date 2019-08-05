@@ -38,15 +38,16 @@ avatar: "/img/bitcoin.gif"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+navbar-col: "#f9b248"
+navbar-text-col: "#0e2431"
+navbar-children-col: "#de935f"
+page-col: "#e8d5b7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#fc3a52"
+footer-text-col: "#373b41"
 footer-link-col: "#404040"
+
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
