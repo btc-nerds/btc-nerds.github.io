@@ -44,7 +44,7 @@ navbar-children-col: "#de935f"
 page-col: "#e8d5b7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#fc3a52"
+footer-col: "#de935f"
 footer-text-col: "#373b41"
 footer-link-col: "#404040"
 
@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Infominer
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
