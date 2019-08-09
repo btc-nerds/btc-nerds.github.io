@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: BTC-Nerds
+title: Bitcoin-Nerds
 
 # Short description of your site
 description: For geeks, dweebs, and other nerds interested in learning more about Bitcoin.
@@ -11,7 +11,7 @@ description: For geeks, dweebs, and other nerds interested in learning more abou
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://btc-nerds.github.io"
+url: "https://bitcoin-nerds.xyz"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "btc-nerds.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "bitcoin-nerds.xyz"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
