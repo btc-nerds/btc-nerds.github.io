@@ -7,7 +7,7 @@ header:
   image: "https://sourcecrypto.pub/images/bitcoin-history/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
   caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
 permalink: posts/Bitcoin/pre-history/cypherpunks/
-canonical_url: 'https://sourcecrypto.pub/posts/Bitcoin/pre-history/cypherpunks/'
+canonical_url: 'https://bitcoin-nerds.xyz/Bitcoin/pre-history/cypherpunks/'
 categories: ["History","Bitcoin"]
 tags: ["Cypherpunk","Pre-History"]
 redirect_from: /bitcoin-history/before-bitcoin/cypherpunks/

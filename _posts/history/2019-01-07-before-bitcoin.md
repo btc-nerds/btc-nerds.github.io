@@ -4,7 +4,6 @@ title: Before Bitcoin
 description: For related history preceeding the development of Bitcoin.
 excerpt: >
   Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.
-layout: single
 header:
   og_image: https://sourcecrypto.pub/images/bitcoin-history/crab-17-10-10-2018-economist-world-currency.png
   teaser: https://sourcecrypto.pub/images/bitcoin-history/crab-17-10-10-2018-economist-world-currency.png
@@ -14,7 +13,7 @@ permalink: "posts/Bitcoin/pre-history/"
 redirect_from: 
   - /bitcoin-history/before-bitcoin/
   - /bitcoin-history/before-bitcoin
-canonical_url: 'https://sourcecrypto.pub/posts/Bitcoin/pre-history/'
+canonical_url: 'https://bitcoin-nerds.xyz/Bitcoin/pre-history/'
 last_modified_at: 2019-05-27T13:22:33-23:00
 categories: ["History","Bitcoin"]
 tags: ["Pre-History"]

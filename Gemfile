@@ -1,7 +1,11 @@
 source 'https://rubygems.org'
 
-gem "github-pages", '197', group: :jekyll_plugins
+group :jekyll_plugins do
+    gem 'jekyll-algolia', '~> 1.0'
+    gem 'jekyll-paginate'
+    gem 'jekyll-sitemap'
+end
 
 # enable tzinfo-data for local build
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem 'jekyll-paginate'
+
