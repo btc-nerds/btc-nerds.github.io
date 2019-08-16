@@ -153,7 +153,7 @@ There may be newer materials or advisaries for any of the following projects. Be
 ### Privacy
 
 * [Bitcoin Anonymity Guide 2019: How to use BTC like a straight up G](bitcoin_anonymity_guide_2019_How_to_use_BTC_like_a_straight_up_G.pdf)
-* https://gir.pub/deepdotweb/jolly-rogers-security-guide-for-beginners/ (oldie but a goodie)
+* [Jolly Rogers Security Guide for Beginners](https://gir.pub/deepdotweb/jolly-rogers-security-guide-for-beginners/ (oldie but a goodie)
 * https://99bitcoins.com/buy-bitcoin/anonymously-without-id/
 
 ### Escrow
@@ -163,6 +163,7 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 * [Bitrated.com](https://www.bitrated.com/) 
 * [jobs4btc-escrow.appspot.com](http://jobs4btc-escrow.appspot.com/)
 * [Bitcoin Escrow and Key Signatures](https://web-work.tools/practical-public-key-crypto/)
+
 
 ### Fees
 
@@ -174,14 +175,6 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 * https://whatthefee.io/
 * https://transactionfee.info/
   
-### Proofs
-
-* https://github.com/ligi/SatoshiProof - Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time.
-* https://github.com/opentimestamps/
-* https://github.com/Tierion/blockchain-anchor - A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
-* [Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3) - Chainpoint is an open standard for…
-  * https://github.com/chainpoint/chainpoint-cli
-
 ### Explorers
 
 * http://chain.so/ - Multi-Currency Block Explorer and API
@@ -210,6 +203,9 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
   * [Samoria Wallet - Youtube Channel](https://www.youtube.com/channel/UCb4Y89L9Bokuo6OWqjAhMoA)
 
 ### [Wasabi Wallet](https://wasabiwallet.io/) 	
+
+During the research for this project, I set up Wasabi for the first time. Works like a charm, I wouldn't have known it was using Tor, if they didn't advertise that feature. :D
+
 * [zkSNACKs/WalletWasabi](https://github.com/zkSNACKs/WalletWasabi)
   * [FAQ](https://github.com/zkSNACKs/WalletWasabi/blob/master/WalletWasabi.Documentation/FAQ.md)
   * [DOJO](https://github.com/zkSNACKs/WalletWasabi/blob/master/WalletWasabi.Community/Dojo.md) - Community contributions: Guides, Reviews, Etc.
@@ -265,32 +261,28 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 
 >While managing your own keys ensures that you can't lose your money due to the negligence or maliciousness of a custodian, running a full node ensures that you can't be tricked into accepting invalid bitcoin payments. Running and using your own node gives you the strongest security model Bitcoin has to offer.
 
-![](https://raw.githubusercontent.com/PierreRochard/node-launcher/master/macos.png)
-*[*lightning-power-users/node-launcher*](https://github.com/lightning-power-users/node-launcher)
-
-* [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
-* [Bitcoin Core](https://bitcoincore.org/)	Full node & Bitcoin wallet.	Desktop
 * [Why Run a Full Node?](https://blog.lopp.net/securing-your-financial-sovereignty/)
+* [What Comprises a Bitcoin Fullnode Implementation? – Amentum](https://medium.com/amentum/what-comprises-a-bitcoin-fullnode-implementation-df27989e673a)
+  >Often times in the press I see a lot of confusion around what a fullnode implementation of bitcoin actually *is*. I saw this as a great…
 * [bitcoin.org - How to Run a Full Node](https://bitcoin.org/en/full-node)
-* [Bitcoin Core Config File Generator](https://github.com/jlopp/bitcoin-core-config-generator)
-* [Node Launcher](https://github.com/lightning-power-users/node-launcher)
-* [Raspberry Pi Node Guide](https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1)
-* [RaspPiBolt Guide](https://stadicus.github.io/RaspiBolt/)
-* [Startnode](https://startnode.org/)
 * [A complete beginners guide to installing a Bitcoin Full Node on Linux (2018 Edition)](https://hackernoon.com/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea)
   >How to compile a Bitcoin Full Node on a fresh installation of Kubuntu 18.04 without any Linux experience whatsoever.
   ![](https://imgur.com/hhN0o3F.png)
-* [What Comprises a Bitcoin Fullnode Implementation? – Amentum](https://medium.com/amentum/what-comprises-a-bitcoin-fullnode-implementation-df27989e673a)
-  >Often times in the press I see a lot of confusion around what a fullnode implementation of bitcoin actually *is*. I saw this as a great…
+* [bitcoin.org/en/download](https://bitcoin.org/en/download)
+  >Bitcoin Core initial synchronization will take time and download a lot of data. You should make sure that you have enough bandwidth and storage for the full block chain size (over 200GB). If you have a good Internet connection, you can help strengthen the network by keeping your PC running with Bitcoin Core and port 8333 open. Read the full node guide for details.
+* [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+* [Bitcoin Core](https://bitcoincore.org/)	Full node & Bitcoin wallet.	Desktop
+  * [Bitcoin Core Config File Generator](https://github.com/jlopp/bitcoin-core-config-generator)
 * [402 Payment Required Youtube Playlist - The Bitcoin Core Client](https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Other full node options:<br>* <a href="https://twitter.com/CasaHODL?ref_src=twsrc%5Etfw">@CasaHODL</a>: <a href="https://t.co/JqpJeMGZVU">https://t.co/JqpJeMGZVU</a><br>* <a href="https://twitter.com/nodl_it?ref_src=twsrc%5Etfw">@nodl_it</a>: <a href="https://t.co/QyzOK9leWO">https://t.co/QyzOK9leWO</a><br>* Cyphernode: <a href="https://t.co/tMXS1kCgHW">https://t.co/tMXS1kCgHW</a><br><br>And of course, just running Bitcoin Core directly:<br>* &quot;Running a Full Node&quot;: <a href="https://t.co/D6Fs5WlZE9">https://t.co/D6Fs5WlZE9</a><br>* Bitcoin Core: <a href="https://t.co/OHW7H8oRzM">https://t.co/OHW7H8oRzM</a></p>&mdash; Michael Goldstein (@bitstein) <a href="https://twitter.com/bitstein/status/1091334121274646528?ref_src=twsrc%5Etfw">February 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
+
+### Other Implementations
+
 [**Full Node Software**](https://www.lopp.net/bitcoin-information/full-node.html#node_software):
 
-* [bitcoin.org/en/download](https://bitcoin.org/en/download)
-  >Bitcoin Core initial synchronization will take time and download a lot of data. You should make sure that you have enough bandwidth and storage for the full block chain size (over 200GB). If you have a good Internet connection, you can help strengthen the network by keeping your PC running with Bitcoin Core and port 8333 open. Read the full node guide for details.
 * [Bcoin](https://github.com/bcoin-org/bcoin/releases) 
   - Javascript bitcoin library for node.js and browsers http://bcoin.io
 * [BTCD](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang) 
@@ -298,6 +290,12 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 * [Gocoin](https://gocoin.pl/) - Gocoin is a full Bitcoin solution written in Go language (golang). + tools 
 * [Libbitcoin Node](https://github.com/libbitcoin/libbitcoin-node/releases)
   >These binaries require no installation, simply download and run the single file. Mainnet and testnet are supported based on configuration differences. You can verify the downloads using the signed SHA256 hashes below.
+
+![](https://raw.githubusercontent.com/PierreRochard/node-launcher/master/macos.png)
+
+* [Node Launcher - Easiest BTC/LN desktop app, for Windows, macOS, and Linux](https://github.com/lightning-power-users/node-launcher)
+
+## Node Hardware
 
 [**Plug & Play Node Hardware**](https://www.lopp.net/bitcoin-information/full-node.html#node_hardware):
 
@@ -309,17 +307,70 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 * [Bitseed Core - Bitcoin full node](https://bitseed.org/product/bitseed-3/)
   > Bitseed Core comes preconfigured as a Bitcoin full node, allowing you to keep bitcoin running 24/7 without slowing your PC.
 
+### Raspberry - SBCs
+
+* https://medium.com/@meeDamian/c-lightning-node-on-rbp3-b950660fb835
+* https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1
+* [Beginner’s Guide to Lightning️ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
+* https://stadicus.github.io/RaspiBolt/
+* https://github.com/rootzoll/raspiblitz -Fastest and cheapest way to get your own Lightning Node running - on a RaspberryPi with a nice LCD
+  ![](https://imgur.com/edaW3pO.png)
+* [Bitcoin Core + LND 0.4 Beta (mainnet) Installer for Raspberry](https://github.com/jochemin/raspnode)
+* [Cryptocurrency Mining on the Raspberry Pi](https://www.electromaker.io/tutorial/blog/cryptocurrency-mining-on-the-raspberry-pi-60)
+* https://photochirp.com/r-pi/raspberry-pi-bitcoin-monitor-oled-ticker/- Raspberry Pi Bitcoin Monitor with OLED Ticker
+* https://raspnode.com/diyBitcoin.html
+* http://www.raspberrypifullnode.com
+* https://www.raspberrypi.org/blog/seans-diy-bitcoin-lottery/
+
 ## Application
 
-### Rootstock
+### Open Bazaar
 
-* [www.rootstock.io](http://www.rootstock.io/) - RSK, bitcoin´s smart contract platform.
+* https://www.openbazaar.org - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. 
+* https://tgmweed.co.uk/a-step-by-step-guide-for-buying-in-openbazaar/
+* https://openbazaar.org/blog/the-beginners-guide-to-decentralization/
+* https://docs.openbazaar.org
+* https://openbazaar.org/blog/The-Beginners-Guide-to-Buying-Goods-Services-and-Cryptocurrency-on-OpenBazaar/
+
+### Proofs
+
+* https://github.com/ligi/SatoshiProof - Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time.
+* https://github.com/opentimestamps/
+* https://github.com/Tierion/blockchain-anchor - A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
+* [Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3) - Chainpoint is an open standard for…
+  * https://github.com/chainpoint/chainpoint-cli
 
 
 ### BTCPay Server
 
-* [A Year After Launch, BTCPay Has Grown Larger Than Its Creator Expected](https://bitcoinmagazine.com/articles/year-after-launch-btcpay-has-grown-larger-its-creator-expected/)
-  >BTCPay has become a meteoric success. But for what started out as a hobbyist’s side project, this success has, in some respects, become unwieldy.
+* https://github.com/btcpayserver/
+* https://github.com/btcpayserver/btcpayserver-doc - Documentation of BTCPayServer. Contribute to btcpayserver/btcpayserver-doc development by creating an account on GitHub.
+* https://github.com/btcpayserver/commerce_btcpay -BTCPay server plugin for Drupal Commerce 2.x. Contribute to btcpayserver/commerce_btcpay development by creating an account on GitHub.
+* https://bitcoinshirt.co/how-to-create-store-accept-bitcoin
+* https://github.com/k3tan172/ubuntu-node-box
+* https://github.com/astupidmoose/btcpay_taxreport-for-woocommerce -This is a transaction history plugin for BTCPay for tax reporting - astupidmoose/btcpay_taxreport-for-woocommerce
+* https://github.com/Skyfleet/NBitcoin - Comprehensive Bitcoin library for the .NET framework. - Skyfleet/NBitcoin
+* https://github.com/talvasconcelos/btc-terminal - Payment terminal for BTC with BTCPay Server. Contribute to talvasconcelos/btc-terminal development by creating an account on GitHub.
+* https://github.com/djseeds/btcpay-browser-client - BTCPay client to create invoices and display a payment modal from the browser - djseeds/btcpay-browser-client
+* [How to Install BTCPayServer on Raspberry Pi 3 B+ (with pruning and FastSync)](https://lightninginabox.co/2018/12/how-to-install-btcpayserver-on-raspberry-pi-3-b/)
+* https://docs.btcpayserver.org/deployment/raspberrypideployment
+* https://www.hackster.io/JontyDIY/bitcoin-tracker-using-a-raspberry-pi-a76856
+
+## Layer 2
+
+### Rootstock
+
+* [www.rootstock.io](http://www.rootstock.io/) - RSK, bitcoin´s smart contract platform.
+* https://github.com/rsksmart/tutorials/wiki
+* https://bitcoin.stackexchange.com/questions/54036/can-someone-show-me-an-example-rootstock-smart-contract-that-is-the-equivalent-o
+* https://twitter.com/JWWeatherman_/status/1069232488604729344
+  > Is still planning to introduce a security flaw they call “drive chains”
+
+### Liquid
+
+* https://elementsproject.org/how-it-works
+* https://github.com/ElementsProject/elements
+* https://github.com/Blockstream/liquid
 
 ### Lightning Network
 
@@ -327,6 +378,7 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 * [LightningHood](https://lightninghood.com/)
 * [lopp.net - Lightning Network Resources](https://www.lopp.net/lightning-information.html) ([source](https://github.com/jlopp/lopp.net/blob/master/lightning-information.html))
 * https://github.com/lightningnetwork/lightning-rfc -Lightning Network Specifications
+* https://lightninginabox.co
 
 ## Lightning Nodes
 
@@ -334,7 +386,6 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
   * [Easiest BTC/LN desktop app, for Windows, macOS, and Linux](https://github.com/lightning-power-users/node-launcher)
 * [Lightning Network BOLT implementation](https://github.com/nayutaco/ptarmigan)
 * [The perfect Bitcoin Lightning️ node - Tutorial](https://thebitcoin.pub/t/the-perfect-bitcoin-lightning-node-tutorial/33437)
-* https://github.com/ACINQ/eclair -A scala implementation of the Lightning Network.
 * https://github.com/mit-dci/lit -Lightning Network node software
 * https://www.nodl.it/ - Lightning hardware Device
 
@@ -350,11 +401,31 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * https://github.com/janoside/lnd-admin - Admin UI for LND. Contribute to janoside/lnd-admin development by creating an account on GitHub.
 * [Ride The Lightning - A full function web browser app for LND - ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL/blob/master/README.md)
 * https://github.com/djmelik/lndash - A simple web dashboard for lnd. Contribute to djmelik/lndash development by creating an account on GitHub.
+* [Setup LND 0.4 beta and bitcoind on Ubuntu 16.04](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13)
+* [LNDwork](https://www.lndwork.com/)	Micro-Freelancing
+* [alexbosworth/lnd-gui](https://github.com/alexbosworth/lnd-gui)
+* [github.com/rstmsn/lnd-for-wp](https://github.com/rstmsn/lnd-for-wp) -WordPress plugin for managing & using your LND node
+  - manage your LND node from your WordPress admin panel
+  - fully functional wallet interface 
+  - send / recieve funds with ease
+  - responsive UI adapts to fit any web enabled desktop, tablet or mobile device. 
+  - Search Lightning Network graph, manage peer connections, open & close channels with ease. 
+  - QR support
+  - WordPress ‘shortcodes’, embed LND functionality directly in your pages and posts.
+* [lnd-testnet-2.mably.com](https://lnd-testnet-2.mably.com/) -Testnet Slack Tipping Bot
+* [OpenCart Payment Gateway](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36414) (for LND node)
+* [lndecode.com](https://lndecode.com/)
+* [graph.lndexplorer.com](https://graph.lndexplorer.com/)
+* [lndlife.com](https://lndlife.com)
+* [github.com/janoside/lnd-admin](https://github.com/janoside/lnd-admin)
+  >Admin UI for LND. See https://lnd-admin.chaintools.io/ for an example.
+* [github.com/bitromortac/lndmanage](https://github.com/bitromortac/lndmanage)
+  >Control tool for lightning network daemon (lnd) node operators, optimized for remote control.
 
 ### Eclair - Scala implementation of the Lightning Network.
 
-* https://github.com/ACINQ/eclair 
-* https://github.com/ACINQ/eclair-mobile
+* https://github.com/ACINQ/eclair -A scala implementation of the Lightning Network.
+* https://github.com/ACINQ/eclair-mobile - An Android wallet for the Lightning Network
 * https://github.com/bitcoin-s/bitcoin-s
 * https://github.com/fiatjaf/kwh - browser extension
 * https://github.com/darwin/simverse
@@ -380,15 +451,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * https://github.com/rsbondi/clightning-mobile
 * https://github.com/fiatjaf/sparko
 
-### Raspberry - SBCs
-
-* https://medium.com/@meeDamian/c-lightning-node-on-rbp3-b950660fb835
-* [Beginner’s Guide to Lightning️ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
-* [Fulmo ⚡ @fulmolightning](https://twitter.com/fulmolightning/status/1035183579196743680)
-  >Get ready to rumble! The latest batch of 20 #RaspiBlitz, a full #Bitcoin and #LightningNetwork node running on a Raspberry Pi, is ready to be picked up and plugged in at the #LightningHackday! If you can't attend in person, you can build one yourself: 
-  - https://github.com/rootzoll/raspiblitz
-  ![](https://imgur.com/edaW3pO.png)
-* [Bitcoin Core + LND 0.4 Beta (mainnet) Installer for Raspberry](https://github.com/jochemin/raspnode)
 
 
 ### [Setup and Tutorials](https://lnroute.com/setup-tutorials/)
@@ -398,7 +460,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [Setup Tutorial for Windows](https://medium.com/@jadmubaslat/bitcoin-lightning-network-node-easy-setup-tutorial-for-windows-desktop-users-a-how-to-guide-9937b5a8a669)
 * [ZAP Wallet setup for Windows (video)](https://www.youtube.com/watch?v=w3PGlgiM0ZQ)
 * [Run your own Lightning Node](https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b)
-* [Setup LND 0.4 beta and bitcoind on Ubuntu 16.04](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13)
 * [How to build your own portable plug-in Lightning node!](https://blockstream.com/2018/04/21/portable-lightning-node-tutorial.html)
 
 
@@ -415,16 +476,12 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [lightninglabs/lightning-app](https://github.com/lightninglabs/lightning-app)
 * [ZAP Wallet for Desktop and Mobile](https://zap.jackmallers.com/)
   * [shesek/spark-wallet](https://github.com/shesek/spark-wallet)
-* [Eclair Wallet for Android](https://github.com/ACINQ/eclair-wallet) by ACINQ
-Lightning MacOS GUI Wallet by Alex Bosworth
-  * [alexbosworth/lnd-gui](https://github.com/alexbosworth/lnd-gui)
 * [LightningPeach Wallet](https://lightningpeach.com/peach-wallet) by Lightning Peach
 * [darosior/c-simple](https://github.com/darosior/c-simple)
 
 ### [LNRoute.com/mobile-wallets/](https://lnroute.com/mobile-wallets/)
  >Some wallets also require you to run your own lightning full-node.
 
-* [ACINQ/eclair-wallet](https://github.com/ACINQ/eclair-wallet) Android
 * [bitcoin lightning wallet](http://lightning-wallet.com/) Android
 * [rawtx](https://rawtx.com/) Android iOS
 * [swiftlightning.io](https://www.swiftlightning.io/) iOS
@@ -469,10 +526,6 @@ Muun Wallet Android
   >Ptarmigan by Nayuta Co is a 4th Lightning implementation,
    focused on the Internet of Things.
 * [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning) -Bitcoin Visuals Lightning Statistics
-* [github.com/janoside/lnd-admin](https://github.com/janoside/lnd-admin)
-  >Admin UI for LND. See https://lnd-admin.chaintools.io/ for an example.
-* [github.com/bitromortac/lndmanage](https://github.com/bitromortac/lndmanage)
-  >Control tool for lightning network daemon (lnd) node operators, optimized for remote control.
 * [joltfun.com](https://joltfun.com/)
   >Joltfun
 * [thecryptocloak.com](https://thecryptocloak.com/)
@@ -491,7 +544,6 @@ Muun Wallet Android
 * [strike.acinq.co](https://strike.acinq.co/)
 * [lightninginabox.co](https://lightninginabox.co/)
 * [btcwonderland.com](https://btcwonderland.com)
-* [lndlife.com](https://lndlife.com)
 * [www.excellion.com](https://www.excellion.com)
 * [bitcoin-lightning.de](https://bitcoin-lightning.de)
 * [torguard.net](https://torguard.net/)
@@ -510,7 +562,6 @@ Muun Wallet Android
 ### Mainnet Explorers
 * [explorer.acinq.co](https://explorer.acinq.co/)
 * [explore.casa](https://explore.casa/)
-* [graph.lndexplorer.com](https://graph.lndexplorer.com/)
 * [lightning.chaintools.io](https://lightning.chaintools.io/)
 * [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
 * [www.robtex.com/lightning/node](https://www.robtex.com/lightning/node/)
@@ -519,13 +570,15 @@ Muun Wallet Android
 * [1ml.com](https://1ml.com/)
 * [lightblock.me](http://lightblock.me)
 
+## LAPPS
+
+* https://dev.lightning.community/lapps/
+
 
 ## LN Payments
 
-* [github.com/btcpayserver](https://github.com/btcpayserver)
 * [www.opencart.com](https://www.opencart.com/)
   >A free payment gateway for Bitcoin Lightning Network for store owners who use OpenCart and have their own LN node.
-* [lndecode.com](https://lndecode.com/)
   >For decoding lightning network payment requests as defined in BOLT #11
 * [www.bitrefill.com](https://www.bitrefill.com/)
   >Buy 30+ Vouchers, refill your phone and pay your bills with Lightning.
@@ -537,7 +590,6 @@ Muun Wallet Android
   >Zap is developing Point of Sale solutions for the Lightning Network. Check out this site for a demonstration.
 
 ### Merchant Tools
-
 
 * [BTCPay (self hosted payment processor)](https://github.com/btcpayserver/btcpayserver)
 * [CoinGate](https://coingate.com/)
@@ -551,7 +603,6 @@ Muun Wallet Android
 * [Python Strike library](https://github.com/JASchilz/pystrike)
 * [Strike](https://strike.acinq.co/) (Stripe-like API)
 * [WooCommerce gateway](https://github.com/ElementsProject/woocommerce-gateway-lightning)
-* [OpenCart Payment Gateway](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36414) (for LND node)
 
 
 
@@ -629,7 +680,6 @@ Muun Wallet Android
 
 * [Bitcoin Testnet Lightning Network Faucet – Receive tBTC via Lightning](https://faucet.lightning.community/)
 * [lnroute.com/shop](https://lnroute.com/shop/)
-* [lnd-testnet-2.mably.com](https://lnd-testnet-2.mably.com/) -Testnet Slack Tipping Bot
 * [testnet.lightninggem.com](https://testnet.lightninggem.com/)
   >Testnet Lightning Gem Game
 * [1ml.com/testnet](https://1ml.com/testnet/) -Explorers
@@ -697,14 +747,6 @@ Muun Wallet Android
 
 ### LN WordPress
 
-* [github.com/rstmsn/lnd-for-wp](https://github.com/rstmsn/lnd-for-wp) -WordPress plugin for managing & using your LND node
-  - manage your LND node from your WordPress admin panel
-  - fully functional wallet interface 
-  - send / recieve funds with ease
-  - responsive UI adapts to fit any web enabled desktop, tablet or mobile device. 
-  - Search Lightning Network graph, manage peer connections, open & close channels with ease. 
-  - QR support
-  - WordPress ‘shortcodes’, embed LND functionality directly in your pages and posts.
 * [wordpress.org/plugins/btcpay-for-woocommerce](https://wordpress.org/plugins/btcpay-for-woocommerce/)
   >BTCPay Server is a free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
 * [wordpress.org/plugins/opennode-for-woocommerce](https://wordpress.org/plugins/opennode-for-woocommerce/)

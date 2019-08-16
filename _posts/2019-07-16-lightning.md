@@ -14,10 +14,12 @@ last_modified_at: 2019-07-16T11:22:33-23:00
 
 ---
 
+
 * [Lightning Network - Resource and Information Guide - LNRoute](https://lnroute.com)
 * [LightningHood](https://lightninghood.com/)
 * [lopp.net - Lightning Network Resources](https://www.lopp.net/lightning-information.html) ([source](https://github.com/jlopp/lopp.net/blob/master/lightning-information.html))
 * https://github.com/lightningnetwork/lightning-rfc -Lightning Network Specifications
+* https://lightninginabox.co
 
 ## Lightning Nodes
 
@@ -25,7 +27,6 @@ last_modified_at: 2019-07-16T11:22:33-23:00
   * [Easiest BTC/LN desktop app, for Windows, macOS, and Linux](https://github.com/lightning-power-users/node-launcher)
 * [Lightning Network BOLT implementation](https://github.com/nayutaco/ptarmigan)
 * [The perfect Bitcoin Lightning️ node - Tutorial](https://thebitcoin.pub/t/the-perfect-bitcoin-lightning-node-tutorial/33437)
-* https://github.com/ACINQ/eclair -A scala implementation of the Lightning Network.
 * https://github.com/mit-dci/lit -Lightning Network node software
 * https://www.nodl.it/ - Lightning hardware Device
 
@@ -41,11 +42,31 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * https://github.com/janoside/lnd-admin - Admin UI for LND. Contribute to janoside/lnd-admin development by creating an account on GitHub.
 * [Ride The Lightning - A full function web browser app for LND - ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL/blob/master/README.md)
 * https://github.com/djmelik/lndash - A simple web dashboard for lnd. Contribute to djmelik/lndash development by creating an account on GitHub.
+* [Setup LND 0.4 beta and bitcoind on Ubuntu 16.04](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13)
+* [LNDwork](https://www.lndwork.com/)	Micro-Freelancing
+* [alexbosworth/lnd-gui](https://github.com/alexbosworth/lnd-gui)
+* [github.com/rstmsn/lnd-for-wp](https://github.com/rstmsn/lnd-for-wp) -WordPress plugin for managing & using your LND node
+  - manage your LND node from your WordPress admin panel
+  - fully functional wallet interface 
+  - send / recieve funds with ease
+  - responsive UI adapts to fit any web enabled desktop, tablet or mobile device. 
+  - Search Lightning Network graph, manage peer connections, open & close channels with ease. 
+  - QR support
+  - WordPress ‘shortcodes’, embed LND functionality directly in your pages and posts.
+* [lnd-testnet-2.mably.com](https://lnd-testnet-2.mably.com/) -Testnet Slack Tipping Bot
+* [OpenCart Payment Gateway](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36414) (for LND node)
+* [lndecode.com](https://lndecode.com/)
+* [graph.lndexplorer.com](https://graph.lndexplorer.com/)
+* [lndlife.com](https://lndlife.com)
+* [github.com/janoside/lnd-admin](https://github.com/janoside/lnd-admin)
+  >Admin UI for LND. See https://lnd-admin.chaintools.io/ for an example.
+* [github.com/bitromortac/lndmanage](https://github.com/bitromortac/lndmanage)
+  >Control tool for lightning network daemon (lnd) node operators, optimized for remote control.
 
 ### Eclair - Scala implementation of the Lightning Network.
 
-* https://github.com/ACINQ/eclair 
-* https://github.com/ACINQ/eclair-mobile
+* https://github.com/ACINQ/eclair -A scala implementation of the Lightning Network.
+* https://github.com/ACINQ/eclair-mobile - An Android wallet for the Lightning Network
 * https://github.com/bitcoin-s/bitcoin-s
 * https://github.com/fiatjaf/kwh - browser extension
 * https://github.com/darwin/simverse
@@ -71,15 +92,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * https://github.com/rsbondi/clightning-mobile
 * https://github.com/fiatjaf/sparko
 
-### Raspberry - SBCs
-
-* https://medium.com/@meeDamian/c-lightning-node-on-rbp3-b950660fb835
-* [Beginner’s Guide to Lightning️ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
-* [Fulmo ⚡ @fulmolightning](https://twitter.com/fulmolightning/status/1035183579196743680)
-  >Get ready to rumble! The latest batch of 20 #RaspiBlitz, a full #Bitcoin and #LightningNetwork node running on a Raspberry Pi, is ready to be picked up and plugged in at the #LightningHackday! If you can't attend in person, you can build one yourself: 
-  - https://github.com/rootzoll/raspiblitz
-  ![](https://imgur.com/edaW3pO.png)
-* [Bitcoin Core + LND 0.4 Beta (mainnet) Installer for Raspberry](https://github.com/jochemin/raspnode)
 
 
 ### [Setup and Tutorials](https://lnroute.com/setup-tutorials/)
@@ -89,7 +101,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [Setup Tutorial for Windows](https://medium.com/@jadmubaslat/bitcoin-lightning-network-node-easy-setup-tutorial-for-windows-desktop-users-a-how-to-guide-9937b5a8a669)
 * [ZAP Wallet setup for Windows (video)](https://www.youtube.com/watch?v=w3PGlgiM0ZQ)
 * [Run your own Lightning Node](https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b)
-* [Setup LND 0.4 beta and bitcoind on Ubuntu 16.04](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13)
 * [How to build your own portable plug-in Lightning node!](https://blockstream.com/2018/04/21/portable-lightning-node-tutorial.html)
 
 
@@ -106,16 +117,12 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [lightninglabs/lightning-app](https://github.com/lightninglabs/lightning-app)
 * [ZAP Wallet for Desktop and Mobile](https://zap.jackmallers.com/)
   * [shesek/spark-wallet](https://github.com/shesek/spark-wallet)
-* [Eclair Wallet for Android](https://github.com/ACINQ/eclair-wallet) by ACINQ
-Lightning MacOS GUI Wallet by Alex Bosworth
-  * [alexbosworth/lnd-gui](https://github.com/alexbosworth/lnd-gui)
 * [LightningPeach Wallet](https://lightningpeach.com/peach-wallet) by Lightning Peach
 * [darosior/c-simple](https://github.com/darosior/c-simple)
 
 ### [LNRoute.com/mobile-wallets/](https://lnroute.com/mobile-wallets/)
  >Some wallets also require you to run your own lightning full-node.
 
-* [ACINQ/eclair-wallet](https://github.com/ACINQ/eclair-wallet) Android
 * [bitcoin lightning wallet](http://lightning-wallet.com/) Android
 * [rawtx](https://rawtx.com/) Android iOS
 * [swiftlightning.io](https://www.swiftlightning.io/) iOS
@@ -160,10 +167,6 @@ Muun Wallet Android
   >Ptarmigan by Nayuta Co is a 4th Lightning implementation,
    focused on the Internet of Things.
 * [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning) -Bitcoin Visuals Lightning Statistics
-* [github.com/janoside/lnd-admin](https://github.com/janoside/lnd-admin)
-  >Admin UI for LND. See https://lnd-admin.chaintools.io/ for an example.
-* [github.com/bitromortac/lndmanage](https://github.com/bitromortac/lndmanage)
-  >Control tool for lightning network daemon (lnd) node operators, optimized for remote control.
 * [joltfun.com](https://joltfun.com/)
   >Joltfun
 * [thecryptocloak.com](https://thecryptocloak.com/)
@@ -182,7 +185,6 @@ Muun Wallet Android
 * [strike.acinq.co](https://strike.acinq.co/)
 * [lightninginabox.co](https://lightninginabox.co/)
 * [btcwonderland.com](https://btcwonderland.com)
-* [lndlife.com](https://lndlife.com)
 * [www.excellion.com](https://www.excellion.com)
 * [bitcoin-lightning.de](https://bitcoin-lightning.de)
 * [torguard.net](https://torguard.net/)
@@ -201,7 +203,6 @@ Muun Wallet Android
 ### Mainnet Explorers
 * [explorer.acinq.co](https://explorer.acinq.co/)
 * [explore.casa](https://explore.casa/)
-* [graph.lndexplorer.com](https://graph.lndexplorer.com/)
 * [lightning.chaintools.io](https://lightning.chaintools.io/)
 * [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
 * [www.robtex.com/lightning/node](https://www.robtex.com/lightning/node/)
@@ -210,13 +211,15 @@ Muun Wallet Android
 * [1ml.com](https://1ml.com/)
 * [lightblock.me](http://lightblock.me)
 
+## LAPPS
+
+* https://dev.lightning.community/lapps/
+
 
 ## LN Payments
 
-* [github.com/btcpayserver](https://github.com/btcpayserver)
 * [www.opencart.com](https://www.opencart.com/)
   >A free payment gateway for Bitcoin Lightning Network for store owners who use OpenCart and have their own LN node.
-* [lndecode.com](https://lndecode.com/)
   >For decoding lightning network payment requests as defined in BOLT #11
 * [www.bitrefill.com](https://www.bitrefill.com/)
   >Buy 30+ Vouchers, refill your phone and pay your bills with Lightning.
@@ -228,7 +231,6 @@ Muun Wallet Android
   >Zap is developing Point of Sale solutions for the Lightning Network. Check out this site for a demonstration.
 
 ### Merchant Tools
-
 
 * [BTCPay (self hosted payment processor)](https://github.com/btcpayserver/btcpayserver)
 * [CoinGate](https://coingate.com/)
@@ -242,7 +244,6 @@ Muun Wallet Android
 * [Python Strike library](https://github.com/JASchilz/pystrike)
 * [Strike](https://strike.acinq.co/) (Stripe-like API)
 * [WooCommerce gateway](https://github.com/ElementsProject/woocommerce-gateway-lightning)
-* [OpenCart Payment Gateway](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36414) (for LND node)
 
 
 
@@ -320,7 +321,6 @@ Muun Wallet Android
 
 * [Bitcoin Testnet Lightning Network Faucet – Receive tBTC via Lightning](https://faucet.lightning.community/)
 * [lnroute.com/shop](https://lnroute.com/shop/)
-* [lnd-testnet-2.mably.com](https://lnd-testnet-2.mably.com/) -Testnet Slack Tipping Bot
 * [testnet.lightninggem.com](https://testnet.lightninggem.com/)
   >Testnet Lightning Gem Game
 * [1ml.com/testnet](https://1ml.com/testnet/) -Explorers
@@ -388,14 +388,6 @@ Muun Wallet Android
 
 ### LN WordPress
 
-* [github.com/rstmsn/lnd-for-wp](https://github.com/rstmsn/lnd-for-wp) -WordPress plugin for managing & using your LND node
-  - manage your LND node from your WordPress admin panel
-  - fully functional wallet interface 
-  - send / recieve funds with ease
-  - responsive UI adapts to fit any web enabled desktop, tablet or mobile device. 
-  - Search Lightning Network graph, manage peer connections, open & close channels with ease. 
-  - QR support
-  - WordPress ‘shortcodes’, embed LND functionality directly in your pages and posts.
 * [wordpress.org/plugins/btcpay-for-woocommerce](https://wordpress.org/plugins/btcpay-for-woocommerce/)
   >BTCPay Server is a free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
 * [wordpress.org/plugins/opennode-for-woocommerce](https://wordpress.org/plugins/opennode-for-woocommerce/)
@@ -465,4 +457,3 @@ Another series of games that use the Lightning Network
   >Classical memory game on Lightning. Pair up the 8 different images and if you beat the highscore, you win the jackpot.
 * [fortune.lngames.net](https://fortune.lngames.net/)
   >Lightning Wheel of Fortune
-
