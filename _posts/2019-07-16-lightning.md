@@ -5,7 +5,7 @@ description: This page is for collecting and organizing information related to u
 toc_sticky: false
 excerpt: Links to code, howtos, and other resources related to practical use of Lightning.
 permalink: blog/Bitcoin/lightning/
-published: false
+published: true
 header:
   image: "https://imgur.com/QjmwITb.png"
 categories: ["Bitcoin"]
@@ -14,72 +14,66 @@ last_modified_at: 2019-07-16T11:22:33-23:00
 
 ---
 
+* [Lightning Network - Resource and Information Guide - LNRoute](https://lnroute.com)
+* [LightningHood](https://lightninghood.com/)
+* [lopp.net - Lightning Network Resources](https://www.lopp.net/lightning-information.html) ([source](https://github.com/jlopp/lopp.net/blob/master/lightning-information.html))
+* https://github.com/lightningnetwork/lightning-rfc -Lightning Network Specifications
 
-* [Pierre Rochard [⚡️] (@pierre_rochard)](https://twitter.com/pierre_rochard/status/1055159992733626368)
-  >The LND node software now runs from within the Excel plugin. With neutrino, that means that a Windows + Excel user can be making and receiving LN payments with a few clicks. https://t.co/qeP2dCJSqp
-* [Will O'Beirne (@wbobeirne)](https://twitter.com/wbobeirne/status/1131989707389329408?s=12)
-  >Need plans for the long weekend? Why not get started on making your own Lightning App! Over the next couple of weeks I'll be posting a 5 part series on building a modern web app that takes lightning payments, and how to host it securely. https://t.co/gDsAAUKrnj
-* [Bitcoin Lightning Network:Resource and Information Guide](https://lnroute.com)
-* [402 Payment Required Youtube Playlist - Lightning Howtos](https://www.youtube.com/playlist?list=PLmoQ11MXEmajsUw95Fq6fHzXnVmoMPIeV)
-* [P.Miller (@patmillertime)](https://twitter.com/patmillertime/status/1020742512112095233)
-  >Are you looking for more #LightningNetwork resources and information? Check out: https://t.co/m9aRwlno69 https://t.co/BqXexWLHCa https://t.co/hAvtZyBdtc https://t.co/PaeCg5f6Um https://t.co/2ykoLIrzFp
-* [lightningnetworkstores.com](http://lightningnetworkstores.com/)
-* [bcongdon/awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network) ⚡ awesome-lightning-network ⚡ A curated list of awesome Lightning Network projects for developers and crypto enthusiasts
- * [dev.lightning.community/resources/](https://dev.lightning.community/resources/) - Lightning Resources - Developer resources and documentation for the Lightning Network Daemon.
-* [ZigZag](https://zigzag.io/#/) - lightning enabled crypto exchange
-* [Bitcoin Lightning Joule Chrome Extension](https://medium.com/lightning-power-users/bitcoin-lightning-joule-chrome-extension-ac149bb05cb9)
-  >Lightning Joule is an awesome Chrome plugin being developed by William O'Beirne, check out his presentation at the Chaincode Labs…
-* [Easiest #Bitcoin Lightning Guide!](https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340)
+## Lightning Nodes
 
-## Hardare
-
-### Casa Lightning Node
-
-* [Casa Lightning Node](https://store.casa/lightning-node/) - Simple, easy to use Lightning Network node
-* [Fulmo ⚡ (@fulmolightning)](https://twitter.com/fulmolightning/status/1035183579196743680) - [rootzoll/raspiblitz](https://github.com/rootzoll/raspiblitz)
-  >Get ready to rumble! The latest batch of 20 #RaspiBlitz, a full #Bitcoin and #LightningNetwork node running on a Raspberry Pi, is ready to be picked up and plugged in at the #LightningHackday! If you can't attend in person, you can build one yourself: 
-
-
-## [lopp.net - Lightning Network Resources](https://www.lopp.net/lightning-information.html) ([source](https://github.com/jlopp/lopp.net/blob/master/lightning-information.html))
-
-
-
-## [**LNRoute -Setup and Tutorials**](https://lnroute.com/setup-tutorials/)
-* [Pierre Rochard’s Bitcoin and Lightning Node Launchers](https://github.com/PierreRochard/node-launcher) - Windows /macOS Bitcoin / Lightning executables.
-* [Setup Tutorial for Windows](https://medium.com/@jadmubaslat/bitcoin-lightning-network-node-easy-setup-tutorial-for-windows-desktop-users-a-how-to-guide-9937b5a8a669)
-* [ZAP Wallet setup for Windows (video)](https://www.youtube.com/watch?v=w3PGlgiM0ZQ)
-* [Run your own Lightning Node](https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b)
-* [Setup LND 0.4 beta and bitcoind on Ubuntu 16.04](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13)
-* [setup C-lightning on Debian, with or without TOR (french)](https://www.crypto-lyon.fr/setup-lightning-node-bitcoin.html)
-* [Setting up an LTC lightning node on MAC](https://gist.github.com/ecurrencyhodler/f6da7f26110c875e7fa41a91c66b72a1)
-* [How to build your own portable plug-in Lightning node!](https://blockstream.com/2018/04/21/portable-lightning-node-tutorial.html)
-
-## [**LNRoute -Explorers and Statistics**](https://lnroute.com/explorers-and-statistics/)  ([Forget Statistics, Reality is Better](https://lnroute.com/2018/09/forget-lightning-statistics-reality-is-even-better/))
+* [Easiest Bitcoin Lightning Guide!](https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340)
+  * [Easiest BTC/LN desktop app, for Windows, macOS, and Linux](https://github.com/lightning-power-users/node-launcher)
+* [Lightning Network BOLT implementation](https://github.com/nayutaco/ptarmigan)
+* [The perfect Bitcoin Lightning️ node - Tutorial](https://thebitcoin.pub/t/the-perfect-bitcoin-lightning-node-tutorial/33437)
+* https://github.com/ACINQ/eclair -A scala implementation of the Lightning Network.
+* https://github.com/mit-dci/lit -Lightning Network node software
+* https://www.nodl.it/ - Lightning hardware Device
 
 Lightning Node Match – maximize te number of nodes reached in a minimum number of hops.
 * [www.moneni.com/mcb/nodematch](https://www.moneni.com/mcb/nodematch)
 
-### Lightning Stats
-* [p2sh.info/dashboard/db/lightning-network](https://p2sh.info/dashboard/db/lightning-network)
-* [lightningpeach.com/ln-monitor](https://lightningpeach.com/ln-monitor)
-* [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
+### LND - Lightning Network Daemon
 
+* https://github.com/lightningnetwork/lnd/releases
+* [Pierre Rochard (@pierre_rochard) - twitter.com](https://twitter.com/pierre_rochard/status/1055159992733626368)
+  >The LND node software now runs from within the Excel plugin. With neutrino, that means that a Windows + Excel user can be making and receiving LN payments with a few clicks. https://t.co/qeP2dCJSqp
+* https://github.com/mably/lncli-web - Light-weight web client for the lnd daemon written in NodeJS / Angular. - mably/lncli-web
+* https://github.com/janoside/lnd-admin - Admin UI for LND. Contribute to janoside/lnd-admin development by creating an account on GitHub.
+* [Ride The Lightning - A full function web browser app for LND - ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL/blob/master/README.md)
+* https://github.com/djmelik/lndash - A simple web dashboard for lnd. Contribute to djmelik/lndash development by creating an account on GitHub.
 
+### Eclair - Scala implementation of the Lightning Network.
 
-### Mainnet Explorers
-* [explorer.acinq.co](https://explorer.acinq.co/)
-* [explore.casa](https://explore.casa/)
-* [graph.lndexplorer.com](https://graph.lndexplorer.com/)
-* [lightning.chaintools.io](https://lightning.chaintools.io/)
-* [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
-* [www.robtex.com/lightning/node](https://www.robtex.com/lightning/node/)
-* [lnmainnet.rompert.com](https://lnmainnet.rompert.com/)
-* [bitcoinexchangerate.org/lightning](https://bitcoinexchangerate.org/lightning)
-* [1ml.com](https://1ml.com/)
-* [lightblock.me](http://lightblock.me)
+* https://github.com/ACINQ/eclair 
+* https://github.com/ACINQ/eclair-mobile
+* https://github.com/bitcoin-s/bitcoin-s
+* https://github.com/fiatjaf/kwh - browser extension
+* https://github.com/darwin/simverse
+* https://github.com/t-bast/lightning-confs
 
-## Raspberry - SBCs
+### C-Lightning
 
+* [c-lightning — a Lightning Network implementation in C](https://github.com/ElementsProject/lightning)
+* [setup C-lightning on Debian, with or without TOR (french)](https://www.crypto-lyon.fr/setup-lightning-node-bitcoin.html)
+* [Spark GUI for c-lightning](https://medium.com/@notgrubles/spark-a-new-gui-for-c-lightning-2cf2f024500c) by Nadav Ivgi 
+  * https://github.com/shesek/spark-wallet
+* [github.com/lightningd/plugins/tree/master/autopilot](https://github.com/lightningd/plugins/tree/master/autopilot)
+  >The C-Lightning plugin repository received an autopilot plugin that can help users choose one or more channels to open to start sending LN payments. The plugin is based on an earlier PR to the main C-Lightning codebase.
+* [Lightning Charge](https://github.com/ElementsProject/lightning-charge) 
+* [nanotip](https://github.com/ElementsProject/nanotip)
+* https://github.com/lightningd/plugins
+* https://github.com/leblitzdick/lightning-bike
+* https://github.com/k3tan172/ubuntu-node-box
+* https://github.com/fiatjaf/lightningd-gjson-rpc
+* https://github.com/darosior/c-simple
+* https://github.com/darwin/simverse
+* https://github.com/0xB10C/c-lightning-plugin-csvexportpays
+* https://github.com/rsbondi/clightning-mobile
+* https://github.com/fiatjaf/sparko
+
+### Raspberry - SBCs
+
+* https://medium.com/@meeDamian/c-lightning-node-on-rbp3-b950660fb835
 * [Beginner’s Guide to Lightning️ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
 * [Fulmo ⚡ @fulmolightning](https://twitter.com/fulmolightning/status/1035183579196743680)
   >Get ready to rumble! The latest batch of 20 #RaspiBlitz, a full #Bitcoin and #LightningNetwork node running on a Raspberry Pi, is ready to be picked up and plugged in at the #LightningHackday! If you can't attend in person, you can build one yourself: 
@@ -88,8 +82,20 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [Bitcoin Core + LND 0.4 Beta (mainnet) Installer for Raspberry](https://github.com/jochemin/raspnode)
 
 
-## LN Wallets
+### [Setup and Tutorials](https://lnroute.com/setup-tutorials/)
 
+* [402 Payment Required - Lightning Howtos](https://www.youtube.com/playlist?list=PLmoQ11MXEmajsUw95Fq6fHzXnVmoMPIeV)
+* [Pierre Rochard’s Bitcoin and Lightning Node Launchers](https://github.com/PierreRochard/node-launcher) - Windows /macOS Bitcoin / Lightning executables.
+* [Setup Tutorial for Windows](https://medium.com/@jadmubaslat/bitcoin-lightning-network-node-easy-setup-tutorial-for-windows-desktop-users-a-how-to-guide-9937b5a8a669)
+* [ZAP Wallet setup for Windows (video)](https://www.youtube.com/watch?v=w3PGlgiM0ZQ)
+* [Run your own Lightning Node](https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b)
+* [Setup LND 0.4 beta and bitcoind on Ubuntu 16.04](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13)
+* [How to build your own portable plug-in Lightning node!](https://blockstream.com/2018/04/21/portable-lightning-node-tutorial.html)
+
+
+## Wallets
+
+* https://github.com/lightninglabs/lightning-app
 * [lnwallet.io](https://lnwallet.io/)
 * [bitlum.io](https://bitlum.io/?utm_source=lnroute.com) - Bitlum Chrome Extension Wallet
   >The wallet referral system will allow you to onboard new people in Lightning within 3 minutes, by giving them a free $0.1 bonus on registration, so that they can try the Lightning Network even without having Bitcoin.
@@ -98,10 +104,7 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 
 **Lightning Desktop App** by [Lightning Labs](https://github.com/lightninglabs)
 * [lightninglabs/lightning-app](https://github.com/lightninglabs/lightning-app)
-* [The New Lightning App]https://blog.lightning.engineering/announcement/2018/09/10/lightning-app.html) -10 Sep 2018
-  >Today we’re excited to announce the release of the new version of our Lightning desktop app. This release includes a complete redesign and optimized backend targeted toward light clients.
 * [ZAP Wallet for Desktop and Mobile](https://zap.jackmallers.com/)
-* [Spark GUI for c-lightning](https://medium.com/@notgrubles/spark-a-new-gui-for-c-lightning-2cf2f024500c) by Nadav Ivgi 
   * [shesek/spark-wallet](https://github.com/shesek/spark-wallet)
 * [Eclair Wallet for Android](https://github.com/ACINQ/eclair-wallet) by ACINQ
 Lightning MacOS GUI Wallet by Alex Bosworth
@@ -137,7 +140,7 @@ Muun Wallet Android
 
 ### [LNRoute.com/category/wallets/online-wallets](https://lnroute.com/category/wallets/online-wallets/)
 
-* [Bottle](https://bottle.li) -Bottle uses the Lightning Network andSocial networks to help make Bitcoin accessible for everyone.
+* [Bottle](https://bottle.li) -Bottle uses the Lightning Network and Social networks to help make Bitcoin accessible for everyone.
 * [tippin.me](https://tippin.me)
 * [lnwallet.io](https://lnwallet.io/)
 
@@ -186,11 +189,31 @@ Muun Wallet Android
 * [hodlmonkey.com](https://hodlmonkey.com/)
 * [coincards.ca](https://coincards.ca)
 
+## [**LNRoute -Explorers and Statistics**](https://lnroute.com/explorers-and-statistics/)  ([Forget Statistics, Reality is Better](https://lnroute.com/2018/09/forget-lightning-statistics-reality-is-even-better/))
+
+
+### Lightning Stats
+* [p2sh.info/dashboard/db/lightning-network](https://p2sh.info/dashboard/db/lightning-network)
+* [lightningpeach.com/ln-monitor](https://lightningpeach.com/ln-monitor)
+* [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
+* https://github.com/edouardparis/lntop - zap LN terminal dashboard bar_chart
+
+### Mainnet Explorers
+* [explorer.acinq.co](https://explorer.acinq.co/)
+* [explore.casa](https://explore.casa/)
+* [graph.lndexplorer.com](https://graph.lndexplorer.com/)
+* [lightning.chaintools.io](https://lightning.chaintools.io/)
+* [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
+* [www.robtex.com/lightning/node](https://www.robtex.com/lightning/node/)
+* [lnmainnet.rompert.com](https://lnmainnet.rompert.com/)
+* [bitcoinexchangerate.org/lightning](https://bitcoinexchangerate.org/lightning)
+* [1ml.com](https://1ml.com/)
+* [lightblock.me](http://lightblock.me)
+
+
 ## LN Payments
 
 * [github.com/btcpayserver](https://github.com/btcpayserver)
-* [github.com/lightningd/plugins/tree/master/autopilot](https://github.com/lightningd/plugins/tree/master/autopilot)
-  >The C-Lightning plugin repository received an autopilot plugin that can help users choose one or more channels to open to start sending LN payments. The plugin is based on an earlier PR to the main C-Lightning codebase.
 * [www.opencart.com](https://www.opencart.com/)
   >A free payment gateway for Bitcoin Lightning Network for store owners who use OpenCart and have their own LN node.
 * [lndecode.com](https://lndecode.com/)
@@ -212,7 +235,6 @@ Muun Wallet Android
 * [CryptoChill](https://cryptochill.com/)
 * [FileBazaar (sell digital files)](https://github.com/ElementsProject/filebazaar)
 * [GloBee](https://globee.com/)
-* [Lightning Charge](https://github.com/ElementsProject/lightning-charge) (merchant solution for c-lightning)
 * [Lightning Collect](https://lightningcollect.com/) (payment processor)
 * [LNWallet](https://lnwallet.io/)
 * [Nano PoS](https://github.com/ElementsProject/nanopos) (for Lightning Charge)
@@ -229,7 +251,6 @@ Muun Wallet Android
 * [BitPatron](https://bitpatron.co/)
 * [Lightning Gifts](https://lightning.gifts/) (add tipping to web pages)
 * [LNTipBot](https://www.reddit.com/r/lntipbot/wiki/index) (reddit)
-* [nanotip](https://github.com/ElementsProject/nanotip) (for c-lightning)
 * [Slack Tipbot](https://github.com/CryptoFR/ln-tip-slack)
 * [tippin.me](https://tippin.me) (twitter tips)
 
@@ -445,7 +466,3 @@ Another series of games that use the Lightning Network
 * [fortune.lngames.net](https://fortune.lngames.net/)
   >Lightning Wheel of Fortune
 
-
-## Assorted
-
-* [Making sense of Lightning network nodes and money transmission licensing](https://coincenter.org/entry/making-sense-of-lightning-network-nodes-and-money-transmission-licensing) -An update on Coin Center’s work to avoid unnecessary regulatory burdens on technologists.
