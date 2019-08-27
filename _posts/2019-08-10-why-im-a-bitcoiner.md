@@ -10,119 +10,101 @@ published: false
 comments: false
 ---
 
-Hi, I'm Infominer! I don't consider myself a good writer. However, I love to read, and when I do write, spend a lot of time editing. I care about reliable sources, love the research, and have an attention for detail.
+Hi, I'm Infominer! I'm a computer nerd, avid reader from way back, and internet research enthusiast. I don't consider myself a good writer. However, I love to read, and when I do write, I spend a lot of time editing. I care about reliable sources, love the research, and have an attention for detail.
 
-What follows is a bit of my story, and why I love Bitcoin. However, my story is of limited value, so you'll also get some Bitcoin History, as well as practical tools and guides for using Bitcoin.
+I'll intertwine some bitcoin history, along with a bit of my own story, and how I came to Bitcoin. Then, I'll share some practical tools and guides to make it easier for anyone to use Bitcoin.
 
 ## A Seeker of Truth
 
-That's my longest running meme, anyway. I've read a lot of books, spent a lotta time at libraries, before the internet took off.. and ever since, searched for the truth wherever it might be found. 
+Growing up, I spent a lotta time at libraries, before the internet took off.. and ever since, searched for the truth wherever I thought it may be found. 
 
-There no reason to bother to learn deep truth, unless it has some actionable value. Without a practical and measurable value, noone is buying ads for that information, then its practically invisible. Anyways, it's not like you can go up to a buddy and say "hey, will you read these books, real quick? oh yeah, and just a few essays? I really want you to watch this 4 hour documentary with me, but it would be **way** better if you do some background reading first." 
+I was also a computer geek, from a young age. I never got serious about it, but I've always loved figuring out how to accomplish various tasks using a keyboard, mouse, screen, and some ingenuity. 
 
-I was also a computer geek, from a young age. I never got serious about it, but I always love working with computers and figuring out how to accomplish various tasks. I remember using search when the web was young, in the mid-late '90s. We would debate topics in the newsgroups, with internet search as our trusty weapon. It was a little crude back then... but I knew that if I was persistant, methodical, and creative with my search terms, I could find the information I was looking for. 
+I remember using search when the web was young, in the mid-late '90s. I would debate various topics in the newsgroups. There were a number of search engines, I probably used them all to some extent. It was a little crude back then... but I was persistant, and creative with my search terms. 
 
-As a young adult, I chose to disengage with a system that I find to be harmful to humanity, dedicated to lies and deceit, and associated with the US Dollar, as little as possible. 
+As a young adult, I chose to disengage from "the system" and associated with the US Dollar, as little as possible. 
 
-However, that led me down a path of indolence, and the creative outlets I found were never as compelling to me as computers. I clearly should have just gotten serious about computers, when I was younger. However, I was not so far sighted.. and pursued futile ends for quite some time. 
+However, that led me down a path of indolence, and the creative outlets I found were never as compelling to me as computers. I clearly should have just gotten serious about tech, from a young age.
 
-### From hearing about Bitcoin, to Caring About It
+## From hearing about Bitcoin, to becoming a Bitcoiner
 
-Somewhere between 2013-15, A friend told me their hard-drive was encrypted and there was a cryptocurrency ransom for it. While I had been out of tech for a while, it was hard to believe in some attack that I would be powerless to repair. Gone are the days of trivial virus infections... run the wrong app and get yer hardrive encrypted! yowza!
+Somewhere between 2013-15, A friend told me their hard-drive was encrypted and there was a Bitcoin ransom for it. While I had been out of tech for a while, it was hard to believe in some attack that I would be powerless to repair. Gone are the days of trivial virus infections. Click the wrong link, run the wrong app.. get yer hardrive encrypted!! yowza!
 
-A year or so later, I met a guy who told me about someone who "showed them how to buy drugs on the darknet, with untracable cryptocurrency" and proceeded to steal all their funds.
+A year or so later, I heard a story about a guy that was gonna help my buddy buy drugs on the darknet, "with untracable digital currency," who instead ran off with their funds.
 
-The tipping point where I came when I started working to create a new life, since being a career alchoholic doesn't exactly have a great retirement package.
+I really began paying attention when I decided to start a new life, after years of booze and drug abuse. I decided to get into writing. Reallly, I just like reading a lot, and it's been something like therapy for me.
 
-*As a second chance*, I've been blessed with a room, board, and the opportunity to create my own independent curriculum, with the aim of becoming a productive, pro-social, *independent citizen* that can afford to pay for their own room\board and government extortion (ahem, I mean taxes).
+When I first began, my mind was so addled that I could barely focus on the screen. All the same, I looked for opportunities to practice the craft, and earn as a writer. In the summer of 2017, I stumbled upon a social media site that let me earn crypto as a content creator. That's when I began to learn a little of what Bitcoin is really about.
 
-**I** decided that I would see about writing for a living. When I first began, my chemically addled mind could barely focus to read. All the same, I looked for opportunities to practice the craft, and earn as a writer. In the summer of 2017, I stumbled upon a social media site that let me earn crypto as a content creator. 
-
-After that shitcoin crashed, I ditched that project and went into freelance. Like anyone in freelance, especially without any applicable experience, I started at a bottom of the barrel freelance site, for dirt cheap rates.
+After the market crashed, I ditched the shitcoin and went into freelance. Like most people starting without any web-work experience, I landed at a bottom of the barrel freelance site, for dirt cheap rates.
 
 ## Systematic and Iterative
 
-**I** undertake far more research than required for any given assignment. In part, this is a habit from coming into the scene fresh, and having to do so much research in order to write (and properly reference) the advance topics I promoted services in. Moreover, being in such a new and emerging space, I'm still very much in the discovery phase, and haven't much to offer in the way of a personal position. I try to stick with gathering and relating information.
+I do a lot more research than required for any given assignment. In part, this is a habit from coming into the scene fresh, and having to do so much backgroudn reading in order to write (and properly reference) the advance topics I promoted services in. 
 
-**T**hroughout 2017, I thought that Bitcoin was like the Model T, and someone would surely come along with a more robust implementation, eventually. Now, I'm not so sure about that. 
+Being in such a new and emerging space, I'm still very much in the discovery phase, and only beginning to develop strong positions. I mostly stick with gathering and relating information.
 
-**O**nce I began a serious study of Bitcoin, [in early 2018](https://www.csbtechemporium.com/bitcoin-blockchain-cryptocurrency/), I was drawn to its simplicity, and found its cypherpunk roots appealing.  I knew that in order to understand anything about cryptocurrency, first, I must learn a lot more about Bitcoin. 
+Throughout 2017, everyone was bashing Bitcoin, saying how it was like the Model T, and trying to pitch their alternative. So, not being very educated, it was easy to think the same.
 
-I also realized that, finally(!!!), there is some possibility for me to earn an independant living, and become divorced from the federal reserve. I decided to try to sort through and categorize the dense sea of information surrounding Bitcoin, making it easier to navigate. It's a huge problem, challenging, rewarding, and I'm learning lots of ways to be a valuable participant of the internet.
+Once I began a serious study of Bitcoin, [in early 2018](https://www.csbtechemporium.com/bitcoin-blockchain-cryptocurrency/), I was drawn to its simplicity, and immediately identified with its cypherpunk roots. I knew that if I wanted to know anything about cryptocurrency, I needed to learn a lot more about Bitcoin.
 
-### Curation Can't Be Automated
-
-Curation can't ever be fully automated, only facilitated. Information is growing faster than the algorithms can keep up with, while jobs are being automated left, right, and every-which way. 
-
-Sometimes, I'm accused of being particularly intelligent. I'm not so sure. The work that I do is primarily repetitive, and more time consuming than it probably needs to be. 
-
-I'm just looking at the web, and how it's grown over the past few decades. The digital transformation is happening before our eyes, and most people don't even notice. I do realize how easy it is to simply enjoy the benefits that of new technologies, and keep going along some expected path...  Why *wouldn't* you position yourself in the middle of the tech revolution? 
-
-Why wouldn't I provide value, learn some digital tools, and make it easy for people to pay me in Bitcoin?
+I also realized that, finally(!!!), there is some possibility for me to earn a living divorced from central bankers and thier schemes. I decided to try and sort through and categorize the dense sea of information surrounding Bitcoin, making it easier to navigate. It's a huge problem, challenging, rewarding, and I'm learning lots of ways to be a valuable participant of the internet.
 
 ## Not Just Bitcoin History
 
 I want to understand all what led into Bitcoin. Since Bitcoin is somewhat complicated, I decided to go back and study the history of [classical cryptography](https://www.axiomtech.io/blog-feed/pre-digital-cryptography-a-history), in hopes that it would help me understand modern cryptography. 
 
-Throughout recorded history, the art of encryption was a highly secretive practice. It began with simple substitutions, where the alphabet is paired with a corresponding key, which is used to both encode and decrypt the message.
+Throughout recorded history, the art of encryption was a highly secretive practice. The earliest known forms begin with simple substitutions, where the alphabet is paired with a corresponding key, which is used to both encode and decrypt the message.
 
-The most secure form of cryptography is a one-time pad. This is a system by which each key is used only once, and never again. The oldest problem in cryptography is key-distribution. Regardless of how weak or secure the encryption method, how are we to exchange keys with their intended recipient?
+The most secure form of cryptography is a one-time pad. This is a system where each key is used only once, and never again. However, the oldest problem in cryptography is key-distribution. Regardless of how weak or secure the encryption method, how are we to manage the creation and distribution of our keys to exchange with the intended recipient?
 
 Perhaps, the most democratizing technology ever invented is Public Key Cryptography. Public key encryption changed everything, by splitting a key into two parts. One that may be publicly available and visible to all, and the other is kept privately, known only to its owner. 
 
-**If I know your public key, I can encrypt a message that only you can open.**
+**Using your public key, I can encrypt a message that only you can open.**
 
 That technology introduced a shift in the balance of power, so great, it's no wonder that powerful governments resisted its proliferation.
 
-For a time, there was a threat that public key encryption would be outlawed altogether. Because of that threat, Phil Zimmerman released PGP to the world for free, in 1991. This marked first time in recorded history that strong encryption became widely available to the general public. Immediately it came into use by individuals under oppresive regimes, where the ability to communicate privately was a matter of life and death.
+For a time, there was a threat that public key encryption would be outlawed altogether. Because of that threat, Phil Zimmerman released PGP to the world for free, in 1991. This was first time in recorded history that strong encryption became available to the general public. Immediately, it came into use by individuals under oppresive regimes, where the ability to communicate privately was a matter of life and death.
 
-The internet had also begun to emerge around this time, and the world began working towards, digital currency, and digital payments. While there were many attempts at both, payments were solved by the end of the decade, and the quest for electronic currency languished while internet commerce took center stage during the advent of a new Milleneum.
+The internet had begun to emerge around this time, and soon the world began working towards, digital currency, and digital payments. While there were many attempts at both, digital payments were solved by the end of the decade, and the quest for electronic currency retreated from the stage.
 
 **I have this habit where I think about nearly everything in relation to Bitcoin.**
 
-Above conveys but a sliver of the history leading to the creation and proliferation of Bitcoin. The history of money, itself, could also be considered, along with manipulation of the precious metals market (and its valuations) stretching back throughout all recorded history. 
-
-The History of AI, which runs parallel to and is interwoven with the entirety of computing history... history of Open Source (which, incidentally, has roots in an AI reserach lab), p2p (which begins in pararallel with the invention of the internet), law, economics, object capabilities, game theory, blockchain and the united nations... and too few clients who are actually seeking content on these subjects.
+Above conveys but a sliver of the history leading to the creation and proliferation of Bitcoin. I'm also interested in the quest for artificial intelligence that spans the course of computing history; open source, which has roots in an AI reserach lab; P2P starting around the birth of the internet, law, economics, game theory, world politics...
 
 ## The Quest for Decentralized Identity
 
-Like almost everything in crypto, the pursuit of decentralized identity can be traced back as far back as David Chaum's 1985, *Security without Identification [Transactions Systems to Make Big Brother Obsolete](https://www.chaum.com/publications/Security_Wthout_Identification.html)*. 
+I started working seriously on the topic of Decentralized Identity back in September 2018. After a few gigs writing on the subject, I had gathered enough links to start building an "Awesome List" on GitHub... and down another rabbithole.
 
-Chaum invented mix networks, anonymous digital messaging, digital cash, and essentially pioneered the field of digital cryptography. He also happened to have described a system for Self Sovereign Identity decades before the term and underlying concepts reappeared independently, through a collaborative community process.
+Like almost everything related to digital cryptography, the pursuit of decentralized identity can be traced back as far back as David Chaum's 1985, *Security without Identification [Transactions Systems to Make Big Brother Obsolete](https://www.chaum.com/publications/Security_Wthout_Identification.html)*. 
 
-I started working seriously on the topic of Decentralized Identity back in September 2018, because I had written a number of articles on the subject, freelance. I found that Indy was the only *really* interesting Hyperledger product (at that time), and could see that they were trying to do the same kind of thing for identity, that Bitcoin has done for currency. 
+Chaum invented mix networks, anonymous digital messaging, digital cash, and essentially pioneered the field of digital cryptography. He also happened to have described a system for Self Sovereign Identity, decades before the term and underlying concepts arose through a collaborative community process.
 
-In fact, that's just one part of network spanning the globe, who are working towards sovereign credentials for the internet. That network comprises old timey technologists, collaborators on design and specification, dozens of of UN related organizations, humanitarians, and participants in every corner of the globe.
+May 2000, Planetworks Conference was the first international summit on Global Ecology and Information Technology. Held annually, in San Francisco, through 2004, this series of events, and the communities that arose around them  collectively embarked upon the modern movement towards Sovereign Identity. 
 
-May 2000, in San Francisco, the **Planetworks** Conference was the first international summit on Global Ecology and Information Technology. Held annually, through 2004, this series of events, and the communities that arose around them (h/t [@identitywoman](https://twitter.com/identitywoman)) collectively embarked upon the modern movement towards Sovereign Identity. 
-
-Developed through it and the groups that emerged from it, were some of the earliest efforts towards computing systems designed for the needs of humans and their home, rather than purely profit driven interests.
+  >Planetwork convened the first international conference on global ecology and information technology in May 2000, beginning a conversation about creating a distributed online social network to empower individuals and civil society, and publishing the [ASN Whitepaper](http://asn.planetwork.net) in 2003.
 
 From 2004-2005, Architect of Identity, Microsoft Corporation, Kim Cameron, wrote [The Laws of Identity](https://www.identityblog.com/?paged=4&m=2004), in a collaborative fashion through a network of blogs who worked out these topics, together.  
 
 Since those early days, a number of communities have grown around the idea of creating systems for identification, that are sufficient at every level of security assurance, that require the least amount of disclosure possible for the needs of each engagement. Having control over our identifiers is emerging as a fundamental human right, and its proven that data silos make attractive honey pots, impossible to secure. 
 
-For both humanitarian, and security purposes, a secure system for identification must be decentralized, and place the user in control over their personal information. Proposed methods for such a system include using a different identifier for each relationship, so that third parties aren't able to collude to share information and make a profile of you. Thats exactly what Chaum was talking about in the 80's, but it's easier said than done.
-
-### Enter Bitcoin... and Microsoft?
+## Enter Bitcoin... and Microsoft?
 
 Thanks to Daniel Buchner, Microsoft is helping to build a toolkit for using the Bitcoin blockchain in conjunction with the [W3C DID specification](https://w3c-ccg.github.io/did-spec/), so that Bitcoin can be used for securing decentralized identifiers. Those identifiears are to be as widely useful and as interoperable as possible with every other platform in the world. That's the goal, anyways. Heavy stuff.
 
-So I finally gathered together enough history, domain knowledge, that it's getting easier for me to understand Bitcoin, and it's complex web of relationships and codebases. At the same time, it's shown quite a bit of market dominance this year. So that makes it increasingly urgent for me to focus *a lot* more on Bitcoin, sooner than later.
+So, I finally gathered together enough history, domain knowledge, that it's getting easier for me to understand Bitcoin, and it's complex web of relationships and codebases. Meanwhile, Bitcoin is gaining dominance, every day and I'm compelled to focus *a lot* more on Bitcoin, sooner than later.
 
-So it was awesome when Vlad Costea asked me about writing for this book, since it was a perfect excuse to slot a few weeks in my schedule for focusing on Bitcoin, only. 
+So it was awesome when Vlad Costea asked me about writing a chapter for this book, and it was a perfect excuse to slot some weeks in my schedule for Bitcoin, only. 
 
-In preparation for this article, first, I organized all the information that I had collected about bitcoin, over the past year. Previously it was in one or two folders all mixed up with content about other topics in crypto, not bitcoin related. Once I organized all of that stuff, I ended up with 4 different catalog systems, one for bitcoin info, one for lightning info, one for history, and one for practical tools, libraries, and Bitcoin apps\howtos.
+## Bitcoin: Tools, Apps, Libraries, HowTos
 
-I'm going to share as much as I can manage of the Practical Bitcoin info, here. It's one thing to talk and write about Bitcoin, but it's much better just to use it.
+When deciding which content would be most useful for the community, realized it would be great to have a serious collection of practical tools and guides for using Bitcoin.
 
-## Practical Bitcoin
+I started by sorting through whatever I'd collected over the past year. From there, I began scouring lopp.net, bitcoin.org, Bitcoin Only, LNRoute.. I clicking through through those sites, "one link at a time", and sorted them in an iterative process, deciding upon categories as I go. Then I got into the Awesome lists, and started feeling like I had surveyed a broad swath of the Bitcoin information ecosystem. Next, I dove face first into the [Bitcoin Topic on Github](https://github.com/topics/bitcoin). 
 
-For this, I started with whatever I had come across over the past year, and saved. Then I went to lopp.net, bitcoin.org, and few of the other of the top Bitcoin resources, such as LNRoute. I've gone through those sites gathering a link at a time, to sort them all in an iterative process, figuring out categories as I go. Then I got into the Awesome lists, and really started feeling like I had surveyed a broad swath of the Bitcoin information ecosystem. That's when I dove face first into the [Bitcoin Topic on Github](https://github.com/topics/bitcoin). 
+As far as finding practical applcations interacting with Bitcoin in some way, it's hard to find a more comprehensive source than that. I'm still not through the entire list.
 
-As far as finding practical applcations interacting with Bitcoin in some way, it's hard to find a more comprehensive source than that. I'm still not through the entire list.. and since my Bitcoin History repo only has 4 stars, I will have to sroll through to the very bottom where I'm sure some other gems are found. 
-
-I won't be able to list all of the practical Bitcoin links I've found here, so at the end, I'll share a link to where I'm collecting and organizing.
+I won't be able to list all of the practical Bitcoin links I've found here, but this should be a good start. I'll leave notes regarding any software I've used.
 
 ## You MUST Do Your Own Research
 
@@ -136,34 +118,36 @@ There may be newer materials or advisaries for any of the following projects. Be
 
 * [Bitcoin Savings Plan](https://jlopp.github.io/bitcoin-savings-plan/)
 * [bitcoin-only.com/#get-bitcoin](https://bitcoin-only.com/#get-bitcoin)
-  * [FastBitcoins](https://fastbitcoins.com/) Buy and Sell Bitcoin	Canada & UK
-  * [Cash App](https://cash.app/)	Buy bitcoin with debit card	USA
-  * [BullBitcoin](https://bullbitcoin.com/) Non-Custodial Bitcoin Services	Canada
-  * [Bittr](https://www.getbittr.com/)	Regular Automated Buying	Europe
-  * [Bitonic](https://bitonic.nl/) Buy and Sell Bitcoin	Netherlands
-  * [Amber](https://getamber.io/)	Regular Automated Buying (Beta)	Australia
+* [Buy Bitcoin with Cash](https://www.buybitcoinworldwide.com/en/buy-bitcoins-with-cash/)
+* [Bitcoin ATMs by Country](https://coinatmradar.com/countries/)
+* [howtobuybitcoins.info](https://howtobuybitcoins.info)
+* [Cashback Rewards](https://cryptonews.com/exclusives/top-5-bitcoin-cashback-rewards-apps-you-can-use-to-earn-bitc-4234.htm)
+* [Dollar Cost Average with BTCDCA BEC020](https://anchor.fm/podcast-8f267c0/episodes/Dollar-Cost-Average-with-BTCDCA-BEC020-e49o8b)
 
 ### Earn Bitcoin
-* [bitcoin-only.com/#get-bitcoin](https://bitcoin-only.com/#get-bitcoin)
-  * [TallyCoin](https://tallyco.in/) [[*](https://bitcoin-only.com/#get-bitcoin)]	Bitcoin Fundraising
-  * [jfgi](https://www.jfgi.cc/) [[*](https://bitcoin-only.com/#get-bitcoin)]	Bitcoin Fundraising
-  * [LNDwork](https://www.lndwork.com/)	Micro-Freelancing
-  * [MicroLancer](https://microlancer.io/) Micro-Freelancing
+* [TallyCoin](https://tallyco.in/) [[*](https://bitcoin-only.com/#get-bitcoin)]	Bitcoin Fundraising
+* [jfgi](https://www.jfgi.cc/) [[*](https://bitcoin-only.com/#get-bitcoin)]	Bitcoin Fundraising
+* [LNDwork](https://www.lndwork.com/)	Micro-Freelancing
+* [MicroLancer](https://microlancer.io/) Micro-Freelancing
+* https://www.bitcoinget.com
+* https://www.bitfortip.com
+* http://earn-bitcoins.com
 
 ### Privacy
 
-* [Bitcoin Anonymity Guide 2019: How to use BTC like a straight up G](bitcoin_anonymity_guide_2019_How_to_use_BTC_like_a_straight_up_G.pdf)
-* [Jolly Rogers Security Guide for Beginners](https://gir.pub/deepdotweb/jolly-rogers-security-guide-for-beginners/ (oldie but a goodie)
+* [Bitcoin Anonymity Guide 2019: How to use BTC like a straight up G](https://drive.google.com/file/d/1MNh7oMCQ-w7hJ3TmApeLfphlpcCnrh5Y/view?usp=sharing)
+* [Jolly Rogers Security Guide for Beginners](https://gir.pub/deepdotweb/jolly-rogers-security-guide-for-beginners/) (oldie but a goodie)
 * https://99bitcoins.com/buy-bitcoin/anonymously-without-id/
+* https://en.bitcoin.it/wiki/Privacy
+* [Privacy for HODLers @6102Bitcoin](https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md)
 
 ### Escrow
 
-Escrow Agents are impartial and trusted intermediaries who hold custody of buyer's funds until pre-defined conditions are met. They allow parties who don't know or trust each-other to engage in commerce, online.
+Escrow Agents are impartial and trusted intermediaries who hold custody of buyer's funds until pre-defined conditions are met. With the help of public key encryption, parties who don't know or trust each-other can engage in commerce, online.
 
 * [Bitrated.com](https://www.bitrated.com/) 
 * [jobs4btc-escrow.appspot.com](http://jobs4btc-escrow.appspot.com/)
 * [Bitcoin Escrow and Key Signatures](https://web-work.tools/practical-public-key-crypto/)
-
 
 ### Fees
 
@@ -177,13 +161,13 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
   
 ### Explorers
 
-* http://chain.so/ - Multi-Currency Block Explorer and API
-* https://blockchain.com/ 
-* https://www.blocktrail.com/BTC
+* https://www.blockchain.com/explorer
+* https://blockchair.com/
+* https://tokenview.com/en
 * https://github.com/JornC/bitcoin-transaction-explorer
 * https://blockexplorer.com/
 * https://www.smartbit.com.au/
-* https://bitkit.live/
+
 
 ## Wallets
 
@@ -195,7 +179,7 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
   >
   >Note that it is NOT recommended that novices use the Bitcoin Core wallet. If you want to use a wallet backed by a fully validating node you run, read [Securing Your Financial Sovereignty](https://blog.lopp.net/securing-your-financial-sovereignty/).
 * [bitcoin-only.com - Wallets](https://bitcoin-only.com/#wallets) 
-* [https://en.bitcoin.it/wiki/How_to_set_up_a_secure_offline_savings_wallet](https://en.bitcoin.it/wiki/How_to_set_up_a_secure_offline_savings_wallet)
+* [Set up a secure offline savings wallet -bitcoin wiki](https://en.bitcoin.it/wiki/How_to_set_up_a_secure_offline_savings_wallet)
 
 ### [Samourai Wallet](https://samouraiwallet.com/)	
 
@@ -215,6 +199,8 @@ During the research for this project, I set up Wasabi for the first time. Works 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JtDY7Gb-L5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Electrum](https://electrum.org/#home)	
+
+Electrum is a good wallet, I never had a problem using it, but I'll be moving to Wasabi.
 
 * [Welcome to the Electrum Documentation!](http://docs.electrum.org/en/latest/)
 * [Unofficial guides for Electrum](https://bitcoinelectrum.com)
@@ -259,12 +245,15 @@ During the research for this project, I set up Wasabi for the first time. Works 
 
 ## [Running a Bitcoin Full Node](https://www.lopp.net/bitcoin-information/full-node.html)
 
->While managing your own keys ensures that you can't lose your money due to the negligence or maliciousness of a custodian, running a full node ensures that you can't be tricked into accepting invalid bitcoin payments. Running and using your own node gives you the strongest security model Bitcoin has to offer.
+>While managing your own keys ensures that you can't lose your money due to the negligence or maliciousness of a custodian, running a full node ensures that you can't be tricked into accepting invalid bitcoin payments. Running and using your own node gives you the strongest security model Bitcoin has to offer. -[lopp.net](https://www.lopp.net/bitcoin-information/full-node.html)
 
 * [Why Run a Full Node?](https://blog.lopp.net/securing-your-financial-sovereignty/)
 * [What Comprises a Bitcoin Fullnode Implementation? – Amentum](https://medium.com/amentum/what-comprises-a-bitcoin-fullnode-implementation-df27989e673a)
   >Often times in the press I see a lot of confusion around what a fullnode implementation of bitcoin actually *is*. I saw this as a great…
 * [bitcoin.org - How to Run a Full Node](https://bitcoin.org/en/full-node)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is a 1 minute video showing how to setup a bitcoin full node on your computer from <a href="https://t.co/asg1Hpd0Vg">https://t.co/asg1Hpd0Vg</a>. By default it currently requires 243gb of hard drive space, so I set mine up on an external hard drive. <a href="https://twitter.com/PeterMcCormack?ref_src=twsrc%5Etfw">@PeterMcCormack</a> <a href="https://t.co/36Q39gcxDa">pic.twitter.com/36Q39gcxDa</a></p>&mdash; The Bitcoin Rabbi (@thebitcoinrabbi) <a href="https://twitter.com/thebitcoinrabbi/status/1164533735750012930?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * [A complete beginners guide to installing a Bitcoin Full Node on Linux (2018 Edition)](https://hackernoon.com/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea)
   >How to compile a Bitcoin Full Node on a fresh installation of Kubuntu 18.04 without any Linux experience whatsoever.
   ![](https://imgur.com/hhN0o3F.png)
@@ -276,7 +265,6 @@ During the research for this project, I set up Wasabi for the first time. Works 
 * [402 Payment Required Youtube Playlist - The Bitcoin Core Client](https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Other full node options:<br>* <a href="https://twitter.com/CasaHODL?ref_src=twsrc%5Etfw">@CasaHODL</a>: <a href="https://t.co/JqpJeMGZVU">https://t.co/JqpJeMGZVU</a><br>* <a href="https://twitter.com/nodl_it?ref_src=twsrc%5Etfw">@nodl_it</a>: <a href="https://t.co/QyzOK9leWO">https://t.co/QyzOK9leWO</a><br>* Cyphernode: <a href="https://t.co/tMXS1kCgHW">https://t.co/tMXS1kCgHW</a><br><br>And of course, just running Bitcoin Core directly:<br>* &quot;Running a Full Node&quot;: <a href="https://t.co/D6Fs5WlZE9">https://t.co/D6Fs5WlZE9</a><br>* Bitcoin Core: <a href="https://t.co/OHW7H8oRzM">https://t.co/OHW7H8oRzM</a></p>&mdash; Michael Goldstein (@bitstein) <a href="https://twitter.com/bitstein/status/1091334121274646528?ref_src=twsrc%5Etfw">February 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 
 
 ### Other Implementations
@@ -309,41 +297,24 @@ During the research for this project, I set up Wasabi for the first time. Works 
 
 ### Raspberry - SBCs
 
-* https://medium.com/@meeDamian/c-lightning-node-on-rbp3-b950660fb835
-* https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1
+* [Lightning Network node (c-lightning) on RBP3](https://medium.com/@meeDamian/c-lightning-node-on-rbp3-b950660fb835)
+* [Bitcoin Full Node on RBP3 (revised)](https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1)
 * [Beginner’s Guide to Lightning️ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
 * https://stadicus.github.io/RaspiBolt/
 * https://github.com/rootzoll/raspiblitz -Fastest and cheapest way to get your own Lightning Node running - on a RaspberryPi with a nice LCD
   ![](https://imgur.com/edaW3pO.png)
 * [Bitcoin Core + LND 0.4 Beta (mainnet) Installer for Raspberry](https://github.com/jochemin/raspnode)
 * [Cryptocurrency Mining on the Raspberry Pi](https://www.electromaker.io/tutorial/blog/cryptocurrency-mining-on-the-raspberry-pi-60)
-* https://photochirp.com/r-pi/raspberry-pi-bitcoin-monitor-oled-ticker/- Raspberry Pi Bitcoin Monitor with OLED Ticker
+* [Raspberry Pi Bitcoin Monitor with OLED Ticker](https://photochirp.com/r-pi/raspberry-pi-bitcoin-monitor-oled-ticker/)
 * https://raspnode.com/diyBitcoin.html
 * http://www.raspberrypifullnode.com
 * https://www.raspberrypi.org/blog/seans-diy-bitcoin-lottery/
-
-## Application
-
-### Open Bazaar
-
-* https://www.openbazaar.org - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. 
-* https://tgmweed.co.uk/a-step-by-step-guide-for-buying-in-openbazaar/
-* https://openbazaar.org/blog/the-beginners-guide-to-decentralization/
-* https://docs.openbazaar.org
-* https://openbazaar.org/blog/The-Beginners-Guide-to-Buying-Goods-Services-and-Cryptocurrency-on-OpenBazaar/
-
-### Proofs
-
-* https://github.com/ligi/SatoshiProof - Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time.
-* https://github.com/opentimestamps/
-* https://github.com/Tierion/blockchain-anchor - A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
-* [Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3) - Chainpoint is an open standard for…
-  * https://github.com/chainpoint/chainpoint-cli
 
 
 ### BTCPay Server
 
 * https://github.com/btcpayserver/
+* https://t.me/btcpayserver
 * https://github.com/btcpayserver/btcpayserver-doc - Documentation of BTCPayServer. Contribute to btcpayserver/btcpayserver-doc development by creating an account on GitHub.
 * https://github.com/btcpayserver/commerce_btcpay -BTCPay server plugin for Drupal Commerce 2.x. Contribute to btcpayserver/commerce_btcpay development by creating an account on GitHub.
 * https://bitcoinshirt.co/how-to-create-store-accept-bitcoin
@@ -356,28 +327,14 @@ During the research for this project, I set up Wasabi for the first time. Works 
 * https://docs.btcpayserver.org/deployment/raspberrypideployment
 * https://www.hackster.io/JontyDIY/bitcoin-tracker-using-a-raspberry-pi-a76856
 
-## Layer 2
+## Lightning Network
 
-### Rootstock
+If you like, you can skip the rest of the guide and browse these main resources, which are excellent.
 
-* [www.rootstock.io](http://www.rootstock.io/) - RSK, bitcoin´s smart contract platform.
-* https://github.com/rsksmart/tutorials/wiki
-* https://bitcoin.stackexchange.com/questions/54036/can-someone-show-me-an-example-rootstock-smart-contract-that-is-the-equivalent-o
-* https://twitter.com/JWWeatherman_/status/1069232488604729344
-  > Is still planning to introduce a security flaw they call “drive chains”
-
-### Liquid
-
-* https://elementsproject.org/how-it-works
-* https://github.com/ElementsProject/elements
-* https://github.com/Blockstream/liquid
-
-### Lightning Network
-
-* [Lightning Network - Resource and Information Guide - LNRoute](https://lnroute.com)
+* [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc) 
+* [Lightning Network - Resource and Information Guide - LNRoute](https://lnroute.com) 
 * [LightningHood](https://lightninghood.com/)
 * [lopp.net - Lightning Network Resources](https://www.lopp.net/lightning-information.html) ([source](https://github.com/jlopp/lopp.net/blob/master/lightning-information.html))
-* https://github.com/lightningnetwork/lightning-rfc -Lightning Network Specifications
 * https://lightninginabox.co
 
 ## Lightning Nodes
@@ -394,6 +351,7 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 
 ### LND - Lightning Network Daemon
 
+* [LND Developer Site](https://dev.lightning.community/)
 * https://github.com/lightningnetwork/lnd/releases
 * [Pierre Rochard (@pierre_rochard) - twitter.com](https://twitter.com/pierre_rochard/status/1055159992733626368)
   >The LND node software now runs from within the Excel plugin. With neutrino, that means that a Windows + Excel user can be making and receiving LN payments with a few clicks. https://t.co/qeP2dCJSqp
@@ -467,42 +425,21 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 
 * https://github.com/lightninglabs/lightning-app
 * [lnwallet.io](https://lnwallet.io/)
+* [lnroute.com/desktop-wallets/](https://lnroute.com/desktop-wallets/)
 * [bitlum.io](https://bitlum.io/?utm_source=lnroute.com) - Bitlum Chrome Extension Wallet
   >The wallet referral system will allow you to onboard new people in Lightning within 3 minutes, by giving them a free $0.1 bonus on registration, so that they can try the Lightning Network even without having Bitcoin.
 
-### [lnroute.com/desktop-wallets/](https://lnroute.com/desktop-wallets/)
-
 **Lightning Desktop App** by [Lightning Labs](https://github.com/lightninglabs)
-* [lightninglabs/lightning-app](https://github.com/lightninglabs/lightning-app)
+  * [lightninglabs/lightning-app](https://github.com/lightninglabs/lightning-app)
 * [ZAP Wallet for Desktop and Mobile](https://zap.jackmallers.com/)
   * [shesek/spark-wallet](https://github.com/shesek/spark-wallet)
 * [LightningPeach Wallet](https://lightningpeach.com/peach-wallet) by Lightning Peach
 * [darosior/c-simple](https://github.com/darosior/c-simple)
 
-### [LNRoute.com/mobile-wallets/](https://lnroute.com/mobile-wallets/)
+[**LNRoute.com/mobile-wallets/**](https://lnroute.com/mobile-wallets/)
  >Some wallets also require you to run your own lightning full-node.
 
-* [bitcoin lightning wallet](http://lightning-wallet.com/) Android
-* [rawtx](https://rawtx.com/) Android iOS
-* [swiftlightning.io](https://www.swiftlightning.io/) iOS
-* [neogeno/shango-lightning-wallet](https://github.com/neogeno/shango-lightning-wallet) -Android iOS
-* [Cipherbook](https://www.cryptotec.com/cipherbook/)
-* [CoinOS](https://coinos.io/) Android
-* [shocknet.github.io](https://shocknet.github.io/) -Own full-node
-* [marzig76/fulmo](https://github.com/marzig76/fulmo) -Fulmo Own full-node
-* [https://zap.jackmallers.com/](https://zap.jackmallers.com/) iOS Own full-node
-* [bluewallet.io](https://bluewallet.io/) -iOS
-* [shesek/spark-wallet](https://github.com/shesek/spark-wallet) -Android Own full-node
-* [breez.technology](https://breez.technology/) -Android Neutrino
-* [WalletOfSatoshi](https://www.walletofsatoshi.com/) - Android iOS
-* [Hoo Wallet](https://hoo.com/)- Android iOS Own full-node
-* [darosior/c-simple](https://github.com/darosior/c-simple)
-c-simple Android
-* [Mobile LN](https://play.google.com/store/apps/details?id=com.mobileln) Android
-* [zeusln.app](https://zeusln.app/)
-Zeus Android iOS Own full-node
-* [muun.com](https://muun.com/)
-Muun Wallet Android 
+
 
 ### [LNRoute.com/category/wallets/online-wallets](https://lnroute.com/category/wallets/online-wallets/)
 
@@ -572,10 +509,9 @@ Muun Wallet Android
 
 ## LAPPS
 
-* https://dev.lightning.community/lapps/
+* [LND Developer Site - LAPPS](https://dev.lightning.community/lapps/)
 
-
-## LN Payments
+### LN Payments
 
 * [www.opencart.com](https://www.opencart.com/)
   >A free payment gateway for Bitcoin Lightning Network for store owners who use OpenCart and have their own LN node.
@@ -615,13 +551,14 @@ Muun Wallet Android
 * [tippin.me](https://tippin.me) (twitter tips)
 
 
-## LN Marketplace
+### LN Marketplace
 
-[Accept Lightning store list/map](https://acceptlightning.com/)
-[Lightning Network Stores](http://lightningnetworkstores.com/)
-[LNRoute store list](https://lnroute.com/category/implementations/stores/)
-[Messari merchant list](https://messari.io/resource/lightning-network#heading-6)
+* [Accept Lightning store list/map](https://acceptlightning.com/)
+* [Lightning Network Stores](http://lightningnetworkstores.com/)
+* [LNRoute store list](https://lnroute.com/category/implementations/stores/)
+* [Messari merchant list](https://messari.io/resource/lightning-network#heading-6)
 
+### LN Stores
 * [store.casa/lightning-node](https://store.casa/lightning-node/) -Casa Lightning Node
 * [funraiden.com](https://funraiden.com/)
   >Funraiden offers cool and geeky products from collectibles to stickers and merch, payed with Bitcoin/Lightning.
@@ -660,7 +597,7 @@ Muun Wallet Android
   >Order Domino’s Pizza via the Lightning Network from anywhere in the US. Get 5% off when paying with Lightning!
 * [www.hodlgang.store](https://www.hodlgang.store/)
 
-## LN Earn
+### LN Earn
 
 * [www.lndwork.com](https://www.lndwork.com/)
   >Lightning Tasks
@@ -676,7 +613,7 @@ Muun Wallet Android
 * [light.yuyaogawa.com/faucet](https://light.yuyaogawa.com/faucet/)
   >A lightning faucet where you can claim an invoice of 200 sats. Maximum one claim per day.
 
-## Testnet
+### Testnet
 
 * [Bitcoin Testnet Lightning Network Faucet – Receive tBTC via Lightning](https://faucet.lightning.community/)
 * [lnroute.com/shop](https://lnroute.com/shop/)
@@ -768,7 +705,6 @@ Muun Wallet Android
 * [medium.com/@BR_Robin/a-bitcoin-lightning-network-powered-rpg-penguinshooter-6d36cc34de0c](https://medium.com/@BR_Robin/a-bitcoin-lightning-network-powered-rpg-penguinshooter-6d36cc34de0c) - Penguin Shooter -A Bitcoin Lightning Network powered RPG
 * [lightningscratchcard.io](https://lightningscratchcard.io/)
   >Pay Satoshis with Lightning Network to scratch letters and help reveal a hidden message. Or post a message yourself and make it attractive so people want to discover.
-Oc2 (Off chain On chain https://oc2realm.com/) - India’s first Decentralised Exchange, 0x Relayer and early adopters of Lightning. 
 * [lightning.oc2realm.com](https://lightning.oc2realm.com/)
   >To support their vision, they have created a Slot Machine on top of Lightning Network. 
 * [miniroulette.lngames.net](https://miniroulette.lngames.net/) -Mini Casino Roulette
@@ -817,11 +753,34 @@ Another series of games that use the Lightning Network
 * [fortune.lngames.net](https://fortune.lngames.net/)
   >Lightning Wheel of Fortune
 
+## Application Layer One
 
-## Sources
+### Open Bazaar
 
-* [lopp.net/bitcoin-information.html](https://www.lopp.net/bitcoin-information.html) - A pre-eminent source on Everything Bitcoin.
+![](https://www.openbazaar.org/assets/home/openbazaar-2.0-teaser-859b121a1200e6ed825fea557b96cff85c33a22afaa66b05909aa62c170aa462.jpg)
+
+* https://www.openbazaar.org - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. 
+* https://tgmweed.co.uk/a-step-by-step-guide-for-buying-in-openbazaar/
+* https://openbazaar.org/blog/the-beginners-guide-to-decentralization/
+* https://docs.openbazaar.org
+* https://openbazaar.org/blog/The-Beginners-Guide-to-Buying-Goods-Services-and-Cryptocurrency-on-OpenBazaar/
+
+### Proofs
+
+* https://github.com/ligi/SatoshiProof - Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time.
+* https://github.com/opentimestamps/
+* https://github.com/Tierion/blockchain-anchor - A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
+* [Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3) - Chainpoint is an open standard for…
+  * https://github.com/chainpoint/chainpoint-cli
+
+
+## Resources
+
+* [lopp.net/bitcoin-information.html](https://www.lopp.net/bitcoin-information.html) - Pre-eminent source on Everything Bitcoin.
 * [bitcoin-only.com](https://bitcoin-only.com/) - Requirement: Support Bitcoin, Not Support Altcoins.
+* [github.com/topics/bitcoin](https://github.com/topics/bitcoin)
+* [bitcoin.stackexchange.com](https://bitcoin.stackexchange.com)
+* [Lightning Network Info - Curators Collaborative](https://discord.gg/2c4Sd7u)
 
 ### Developers Resources
 
