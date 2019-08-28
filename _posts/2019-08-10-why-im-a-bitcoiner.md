@@ -243,6 +243,27 @@ Electrum is a good wallet, I never had a problem using it, but I'll be moving to
   * [402 Payment Required ColdCard Walkthrus](https://www.youtube.com/watch?v=f8dBNrlwJ0k&list=PLmoQ11MXEmahiHdXhOIUM0ja3Hzf_hVvc&index=2)
 * [bitcoin-only.com - Other Hardware](https://bitcoin-only.com/#hardware)
 
+## Layer One Apps
+
+### Open Bazaar
+
+![](https://www.openbazaar.org/assets/home/openbazaar-2.0-teaser-859b121a1200e6ed825fea557b96cff85c33a22afaa66b05909aa62c170aa462.jpg)
+
+* https://www.openbazaar.org - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. 
+* https://tgmweed.co.uk/a-step-by-step-guide-for-buying-in-openbazaar/
+* https://openbazaar.org/blog/the-beginners-guide-to-decentralization/
+* https://docs.openbazaar.org
+* https://openbazaar.org/blog/The-Beginners-Guide-to-Buying-Goods-Services-and-Cryptocurrency-on-OpenBazaar/
+
+### Proofs
+
+* https://github.com/ligi/SatoshiProof - Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time.
+* https://github.com/opentimestamps/
+* https://github.com/Tierion/blockchain-anchor - A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
+* [Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3) - Chainpoint is an open standard for…
+  * https://github.com/chainpoint/chainpoint-cli
+
+
 ## [Running a Bitcoin Full Node](https://www.lopp.net/bitcoin-information/full-node.html)
 
 >While managing your own keys ensures that you can't lose your money due to the negligence or maliciousness of a custodian, running a full node ensures that you can't be tricked into accepting invalid bitcoin payments. Running and using your own node gives you the strongest security model Bitcoin has to offer. -[lopp.net](https://www.lopp.net/bitcoin-information/full-node.html)
@@ -335,7 +356,6 @@ If you like, you can skip the rest of the guide and browse these main resources,
 * [Lightning Network - Resource and Information Guide - LNRoute](https://lnroute.com) 
 * [LightningHood](https://lightninghood.com/)
 * [lopp.net - Lightning Network Resources](https://www.lopp.net/lightning-information.html) ([source](https://github.com/jlopp/lopp.net/blob/master/lightning-information.html))
-* https://lightninginabox.co
 
 ## Lightning Nodes
 
@@ -345,6 +365,7 @@ If you like, you can skip the rest of the guide and browse these main resources,
 * [The perfect Bitcoin Lightning️ node - Tutorial](https://thebitcoin.pub/t/the-perfect-bitcoin-lightning-node-tutorial/33437)
 * https://github.com/mit-dci/lit -Lightning Network node software
 * https://www.nodl.it/ - Lightning hardware Device
+* https://lightninginabox.co
 
 Lightning Node Match – maximize te number of nodes reached in a minimum number of hops.
 * [www.moneni.com/mcb/nodematch](https://www.moneni.com/mcb/nodematch)
@@ -386,7 +407,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * https://github.com/ACINQ/eclair-mobile - An Android wallet for the Lightning Network
 * https://github.com/bitcoin-s/bitcoin-s
 * https://github.com/fiatjaf/kwh - browser extension
-* https://github.com/darwin/simverse
 * https://github.com/t-bast/lightning-confs
 
 ### C-Lightning
@@ -399,19 +419,15 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
   >The C-Lightning plugin repository received an autopilot plugin that can help users choose one or more channels to open to start sending LN payments. The plugin is based on an earlier PR to the main C-Lightning codebase.
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge) 
 * [nanotip](https://github.com/ElementsProject/nanotip)
-* https://github.com/lightningd/plugins
+* https://github.com/lightningd/plugins - Community curated plugins for c-lightning
 * https://github.com/leblitzdick/lightning-bike
 * https://github.com/k3tan172/ubuntu-node-box
-* https://github.com/fiatjaf/lightningd-gjson-rpc
-* https://github.com/darosior/c-simple
-* https://github.com/darwin/simverse
-* https://github.com/0xB10C/c-lightning-plugin-csvexportpays
-* https://github.com/rsbondi/clightning-mobile
-* https://github.com/fiatjaf/sparko
+* https://github.com/fiatjaf/lightningd-gjson-rpc - Talk with a lightningd/c-lightning with minimal overhead and gjson responses.
+* https://github.com/0xB10C/c-lightning-plugin-csvexportpays - A c-lightning plugin that exports all payments to a CSV file
+* https://github.com/rsbondi/clightning-mobile - A mobile client to access your clightning node
 
 
-
-### [Setup and Tutorials](https://lnroute.com/setup-tutorials/)
+## [Setup and Tutorials](https://lnroute.com/setup-tutorials/)
 
 * [402 Payment Required - Lightning Howtos](https://www.youtube.com/playlist?list=PLmoQ11MXEmajsUw95Fq6fHzXnVmoMPIeV)
 * [Pierre Rochard’s Bitcoin and Lightning Node Launchers](https://github.com/PierreRochard/node-launcher) - Windows /macOS Bitcoin / Lightning executables.
@@ -435,68 +451,39 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
   * [shesek/spark-wallet](https://github.com/shesek/spark-wallet)
 * [LightningPeach Wallet](https://lightningpeach.com/peach-wallet) by Lightning Peach
 * [darosior/c-simple](https://github.com/darosior/c-simple)
-
-[**LNRoute.com/mobile-wallets/**](https://lnroute.com/mobile-wallets/)
+* [**LNRoute Mobile Wallets**](https://lnroute.com/mobile-wallets/)
  >Some wallets also require you to run your own lightning full-node.
-
-
-
-### [LNRoute.com/category/wallets/online-wallets](https://lnroute.com/category/wallets/online-wallets/)
-
+* [**LNRoute Online Wallets**](https://lnroute.com/category/wallets/online-wallets/)
 * [Bottle](https://bottle.li) -Bottle uses the Lightning Network and Social networks to help make Bitcoin accessible for everyone.
-* [tippin.me](https://tippin.me)
 * [lnwallet.io](https://lnwallet.io/)
 
-### [LNRoute.com/category/wallets/wallet-tools/](https://lnroute.com/category/wallets/wallet-tools/)
-	
+
+## LN Earn
+
+* [www.lndwork.com](https://www.lndwork.com/)
+  >Lightning Tasks
+* [microlancer.io](https://microlancer.io/)
+  >Earn bitcoin with microtasks
+* [proofofplays.hopto.org](https://proofofplays.hopto.org/)
+  >A platform for content creators to showcase their videos and get paid satoshis.
+* http://light-tube.surge.sh/ - Videos w lightning rewards
+* [tallyco.in](https://tallyco.in/)
+  >Bitcoin and Lightning fundraising platform. Create crowdfunding campaigns for your project and get funded by fellow bitcoiners!
+
+## LN Faucet
 * [Lightning Mainnet Faucet](https://light.yuyaogawa.com/faucet/) - A lightning faucet where you can claim an invoice of 200 sats. Maximum one claim per day.
-* [Submarine Swap Tool](https://submarineswaps.org/)
-* [Lightning Payment Request Decoder](https://lndecode.com/)
-  >For decoding lightning network payment requests as defined in BOLT #11
-* [Lightning Decoder](https://lightningdecoder.com/) - Another online tool to decode Lightning Network Invoice (BOLT11)
-* [Lightning Singles](https://singles.shock.network/)
 
+## Lightning Stats
 
-## [**LNRoute -Implementations**](https://lnroute.com/category/implementations/)
-
-* [nayuta.co](https://nayuta.co/) - [github.com/nayutaco](https://github.com/nayutaco)
-  >Ptarmigan by Nayuta Co is a 4th Lightning implementation,
-   focused on the Internet of Things.
+* [**LNRoute -Explorers and Statistics**](https://lnroute.com/explorers-and-statistics/)  ([Forget Statistics, Reality is Better](https://lnroute.com/2018/09/forget-lightning-statistics-reality-is-even-better/))
 * [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning) -Bitcoin Visuals Lightning Statistics
-* [joltfun.com](https://joltfun.com/)
-  >Joltfun
-* [thecryptocloak.com](https://thecryptocloak.com/)
-  >CryptoCloaks
-* [www.moonstuff.co](https://www.moonstuff.co/)
-  >moonstuff
-* [singles.shock.network](https://singles.shock.network/)
-  >Lightning Singles
-* [www.mocacinno.com/lightning](https://www.mocacinno.com/lightning/)
-  >Image Unblurrer
-* [www.btcduke.com](https://www.btcduke.com/)
-* [zigzag.bitlum.io](https://zigzag.bitlum.io)
-* [www.opennode.co](https://www.opennode.co/)
-* [globee.com](https://globee.com/)
-* [coingate.com/lightning-network](https://coingate.com/lightning-network)
-* [strike.acinq.co](https://strike.acinq.co/)
-* [lightninginabox.co](https://lightninginabox.co/)
-* [btcwonderland.com](https://btcwonderland.com)
-* [www.excellion.com](https://www.excellion.com)
-* [bitcoin-lightning.de](https://bitcoin-lightning.de)
-* [torguard.net](https://torguard.net/)
-* [hodlmonkey.com](https://hodlmonkey.com/)
-* [coincards.ca](https://coincards.ca)
-
-## [**LNRoute -Explorers and Statistics**](https://lnroute.com/explorers-and-statistics/)  ([Forget Statistics, Reality is Better](https://lnroute.com/2018/09/forget-lightning-statistics-reality-is-even-better/))
-
-
-### Lightning Stats
 * [p2sh.info/dashboard/db/lightning-network](https://p2sh.info/dashboard/db/lightning-network)
 * [lightningpeach.com/ln-monitor](https://lightningpeach.com/ln-monitor)
 * [bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
 * https://github.com/edouardparis/lntop - zap LN terminal dashboard bar_chart
 
-### Mainnet Explorers
+## Lightning Explorers
+
 * [explorer.acinq.co](https://explorer.acinq.co/)
 * [explore.casa](https://explore.casa/)
 * [lightning.chaintools.io](https://lightning.chaintools.io/)
@@ -506,12 +493,9 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [bitcoinexchangerate.org/lightning](https://bitcoinexchangerate.org/lightning)
 * [1ml.com](https://1ml.com/)
 * [lightblock.me](http://lightblock.me)
+* [lightninglayer.com](https://lightninglayer.com/)
 
-## LAPPS
-
-* [LND Developer Site - LAPPS](https://dev.lightning.community/lapps/)
-
-### LN Payments
+## LN Payments
 
 * [www.opencart.com](https://www.opencart.com/)
   >A free payment gateway for Bitcoin Lightning Network for store owners who use OpenCart and have their own LN node.
@@ -525,22 +509,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [buyabeerwithlightning.com](http://www.buyabeerwithlightning.com/) - zap POS implementation
   >Zap is developing Point of Sale solutions for the Lightning Network. Check out this site for a demonstration.
 
-### Merchant Tools
-
-* [BTCPay (self hosted payment processor)](https://github.com/btcpayserver/btcpayserver)
-* [CoinGate](https://coingate.com/)
-* [CryptoChill](https://cryptochill.com/)
-* [FileBazaar (sell digital files)](https://github.com/ElementsProject/filebazaar)
-* [GloBee](https://globee.com/)
-* [Lightning Collect](https://lightningcollect.com/) (payment processor)
-* [LNWallet](https://lnwallet.io/)
-* [Nano PoS](https://github.com/ElementsProject/nanopos) (for Lightning Charge)
-* [OpenNode](https://www.opennode.co/)
-* [Python Strike library](https://github.com/JASchilz/pystrike)
-* [Strike](https://strike.acinq.co/) (Stripe-like API)
-* [WooCommerce gateway](https://github.com/ElementsProject/woocommerce-gateway-lightning)
-
-
 
 ### Tips
 
@@ -549,7 +517,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [LNTipBot](https://www.reddit.com/r/lntipbot/wiki/index) (reddit)
 * [Slack Tipbot](https://github.com/CryptoFR/ln-tip-slack)
 * [tippin.me](https://tippin.me) (twitter tips)
-
 
 ### LN Marketplace
 
@@ -597,50 +564,39 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
   >Order Domino’s Pizza via the Lightning Network from anywhere in the US. Get 5% off when paying with Lightning!
 * [www.hodlgang.store](https://www.hodlgang.store/)
 
-### LN Earn
 
-* [www.lndwork.com](https://www.lndwork.com/)
-  >Lightning Tasks
-* [microlancer.io](https://microlancer.io/)
-  >Earn bitcoin with microtasks
-* [proofofplays.hopto.org](https://proofofplays.hopto.org/)
-  >A platform for content creators to showcase their videos and get paid satoshis.
-* http://light-tube.surge.sh/ - Videos w lightning rewards
-* [tallyco.in](https://tallyco.in/)
-  >Bitcoin and Lightning fundraising platform. Create crowdfunding campaigns for your project and get funded by fellow bitcoiners!
+## LAPPS
 
-### LN Faucet
-* [light.yuyaogawa.com/faucet](https://light.yuyaogawa.com/faucet/)
-  >A lightning faucet where you can claim an invoice of 200 sats. Maximum one claim per day.
+* [LND Developer Site - LAPPS](https://dev.lightning.community/lapps/)
+* [LNRoute -Implementations](https://lnroute.com/category/implementations/)
 
-### Testnet
+* [nayuta.co](https://nayuta.co/) - [github.com/nayutaco](https://github.com/nayutaco)
+  >Ptarmigan by Nayuta Co is a 4th Lightning implementation,
+   focused on the Internet of Things.
+* [joltfun.com](https://joltfun.com/)
+  >Joltfun
+* [thecryptocloak.com](https://thecryptocloak.com/)
+  >CryptoCloaks
+* [www.moonstuff.co](https://www.moonstuff.co/)
+  >moonstuff
+* [singles.shock.network](https://singles.shock.network/)
+  >Lightning Singles
+* [www.mocacinno.com/lightning](https://www.mocacinno.com/lightning/)
+  >Image Unblurrer
+* [www.btcduke.com](https://www.btcduke.com/)
+* [zigzag.bitlum.io](https://zigzag.bitlum.io)
+* [www.opennode.co](https://www.opennode.co/)
+* [globee.com](https://globee.com/)
+* [coingate.com/lightning-network](https://coingate.com/lightning-network)
+* [strike.acinq.co](https://strike.acinq.co/)
+* [lightninginabox.co](https://lightninginabox.co/)
+* [btcwonderland.com](https://btcwonderland.com)
+* [www.excellion.com](https://www.excellion.com)
+* [bitcoin-lightning.de](https://bitcoin-lightning.de)
+* [torguard.net](https://torguard.net/)
+* [hodlmonkey.com](https://hodlmonkey.com/)
+* [coincards.ca](https://coincards.ca)
 
-* [Bitcoin Testnet Lightning Network Faucet – Receive tBTC via Lightning](https://faucet.lightning.community/)
-* [lnroute.com/shop](https://lnroute.com/shop/)
-* [testnet.lightninggem.com](https://testnet.lightninggem.com/)
-  >Testnet Lightning Gem Game
-* [1ml.com/testnet](https://1ml.com/testnet/) -Explorers
-* [testnet.satoshis.place](https://testnet.satoshis.place/)
-  >Testnet Satoshi’s Place
-* [starblocks.acinq.co/#](https://starblocks.acinq.co/#/)
-  >Testnet Starblocks Coffee Shop
-* [lnroute.com/shop](https://lnroute.com/shop/)
-  >Testnet LNROUTE Tea Store
-* [CoinClip](https://itunes.apple.com/us/app/coinclip-testnet/id1372927440) iOS
-
-
-### LN Exhange / Signals / API
-
-* [cryptoally.io](https://cryptoally.io/)
-  >CryptoAlly.io is a place to discover quotes of Satoshis and Bitcoin in 100+ currencies at real time. The value transfer of Satoshis is powered by Lightning Network.
-* [crypto.slamtrade.com](https://crypto.slamtrade.com/)
-  >24/7 streaming of high-performance Crypto-Currency trading signals presented in a single view for professional trading. Find out where to buy/sell or when to buy/sell at any point in time in seconds. Also discover liquidity, market making, and arbitraging opportunities.
-* [boltz.exchange](https://boltz.exchange/) ([*](https://medium.com/boltzhq/announcing-the-first-boltz-release-6cb630701432))
-  >An instant, account free, and non-custodial digital asset exchange built on top of the lightning network.
-* [suredbits.com](https://suredbits.com) - NFL, NBA and Crypto API’s -Use of API charged via Lightning Network per call or streaming period.
-  >Suredbits’ Lightning App API allows you to query NFL, NBA and Crypto Exchange data. Their NFL and NBA APIs offer multiple channels including teams, players, games, scores, and statistics. Their Crypto Exchange API allows you to stream data on Trades, Tickers and Order Books.
-* [www.zebpay.com](https://www.zebpay.com/)
-  >App-enabled cryptocurrency exchange and wallet provider, Zebpay, has announced that it is enabling Lightning Network payments for all its users. Zebpay claim that it will even pay the fees for Lightning transactions made through its wallet.
 
 
 ### LN Social
@@ -664,8 +620,6 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [cointippy.com](https://cointippy.com/)
   >CoinTippy helps you reward content on Reddit, Twitter, Telegram and Twitch with cryptocurrencies
 
-
-
 ### LN Art
 * [satoshis.place](https://satoshis.place/)
   >collaborative artboard. Inspired by Reddit Place, and the Million Dollar Homepage. There are 1 million pixels on the canvas and each pixel costs 1 satoshi to paint. Pixels can be painted over indefinitely. Satoshi’s Place is a great way to experience the power of micro-transactions through the Bitcoin Lightning Network.
@@ -674,28 +628,12 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [ludvigart.com](https://ludvigart.com/) -Bitcoin Art
 
 
-
 ### LN Music
 
 * [moifay.online](https://moifay.online/)
   >Official release of first ever Music Album of Moifay, sold online for #Lightning $BTC. Each song is $1 only.
 * [modularsynth.fun](https://modularsynth.fun) -Audo Samples
 * [sogbazaar.com](https://sogbazaar.com)
-
-### LN WordPress
-
-* [wordpress.org/plugins/btcpay-for-woocommerce](https://wordpress.org/plugins/btcpay-for-woocommerce/)
-  >BTCPay Server is a free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
-* [wordpress.org/plugins/opennode-for-woocommerce](https://wordpress.org/plugins/opennode-for-woocommerce/)
-  >This plugin allows stores that use WordPress WooCommerce shopping cart system to accept Bitcoin and Bitcoin through Lightning Network via OpenNode.
-* [wordpress.org/plugins/lightning-publisher/#description](https://wordpress.org/plugins/lightning-publisher/#description)
-  * [github.com/ElementsProject/wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher)
-    >Lightning Publisher for WordPress is developed by Blockstream and allows you to offer previews of your blog posts and require a Lightning Network payment to release the rest.
-
-### LN Shopify
-
-* [mailchi.mp/cf60f9bb7278/opennode-can-now-be-used-on-shopify](https://mailchi.mp/cf60f9bb7278/opennode-can-now-be-used-on-shopify)
-  >Opennode released a plugin for Shopify that allows you to accept Bitcoin and Bitcoin Lightning payments.
 
 
 ### LN Games
@@ -753,25 +691,80 @@ Another series of games that use the Lightning Network
 * [fortune.lngames.net](https://fortune.lngames.net/)
   >Lightning Wheel of Fortune
 
-## Application Layer One
 
-### Open Bazaar
+## Lightning Tools
 
-![](https://www.openbazaar.org/assets/home/openbazaar-2.0-teaser-859b121a1200e6ed825fea557b96cff85c33a22afaa66b05909aa62c170aa462.jpg)
+### Wallet Tools
 
-* https://www.openbazaar.org - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. 
-* https://tgmweed.co.uk/a-step-by-step-guide-for-buying-in-openbazaar/
-* https://openbazaar.org/blog/the-beginners-guide-to-decentralization/
-* https://docs.openbazaar.org
-* https://openbazaar.org/blog/The-Beginners-Guide-to-Buying-Goods-Services-and-Cryptocurrency-on-OpenBazaar/
+[LNRoute.com/category/wallets/wallet-tools/](https://lnroute.com/category/wallets/wallet-tools/)
+* [Submarine Swap Tool](https://submarineswaps.org/)
+* [Lightning Payment Request Decoder](https://lndecode.com/)
+  >For decoding lightning network payment requests as defined in BOLT #11
+* [Lightning Decoder](https://lightningdecoder.com/) - Another online tool to decode Lightning Network Invoice (BOLT11)
+* [Lightning Singles](https://singles.shock.network/)
 
-### Proofs
+### Merchant Tools
 
-* https://github.com/ligi/SatoshiProof - Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time.
-* https://github.com/opentimestamps/
-* https://github.com/Tierion/blockchain-anchor - A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
-* [Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3) - Chainpoint is an open standard for…
-  * https://github.com/chainpoint/chainpoint-cli
+* [BTCPay (self hosted payment processor)](https://github.com/btcpayserver/btcpayserver)
+* [CoinGate](https://coingate.com/)
+* [CryptoChill](https://cryptochill.com/)
+* [FileBazaar (sell digital files)](https://github.com/ElementsProject/filebazaar)
+* [GloBee](https://globee.com/)
+* [Lightning Collect](https://lightningcollect.com/) (payment processor)
+* [LNWallet](https://lnwallet.io/)
+* [Nano PoS](https://github.com/ElementsProject/nanopos) (for Lightning Charge)
+* [OpenNode](https://www.opennode.co/)
+* [Python Strike library](https://github.com/JASchilz/pystrike)
+* [Strike](https://strike.acinq.co/) (Stripe-like API)
+* [WooCommerce gateway](https://github.com/ElementsProject/woocommerce-gateway-lightning)
+
+### LN Plugins
+
+**WordPress**
+
+* [wordpress.org/plugins/btcpay-for-woocommerce](https://wordpress.org/plugins/btcpay-for-woocommerce/)
+  >BTCPay Server is a free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
+* [wordpress.org/plugins/opennode-for-woocommerce](https://wordpress.org/plugins/opennode-for-woocommerce/)
+  >This plugin allows stores that use WordPress WooCommerce shopping cart system to accept Bitcoin and Bitcoin through Lightning Network via OpenNode.
+* [wordpress.org/plugins/lightning-publisher/#description](https://wordpress.org/plugins/lightning-publisher/#description)
+  * [github.com/ElementsProject/wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher)
+    >Lightning Publisher for WordPress is developed by Blockstream and allows you to offer previews of your blog posts and require a Lightning Network payment to release the rest.
+
+**LN Shopify**
+
+* [mailchi.mp/cf60f9bb7278/opennode-can-now-be-used-on-shopify](https://mailchi.mp/cf60f9bb7278/opennode-can-now-be-used-on-shopify)
+  >Opennode released a plugin for Shopify that allows you to accept Bitcoin and Bitcoin Lightning payments.
+
+
+### Testnet
+
+* [Bitcoin Testnet Lightning Network Faucet – Receive tBTC via Lightning](https://faucet.lightning.community/)
+* [lnroute.com/shop](https://lnroute.com/shop/)
+* [testnet.lightninggem.com](https://testnet.lightninggem.com/)
+  >Testnet Lightning Gem Game
+* [1ml.com/testnet](https://1ml.com/testnet/) -Explorers
+* [testnet.satoshis.place](https://testnet.satoshis.place/)
+  >Testnet Satoshi’s Place
+* [starblocks.acinq.co/#](https://starblocks.acinq.co/#/)
+  >Testnet Starblocks Coffee Shop
+* [lnroute.com/shop](https://lnroute.com/shop/)
+  >Testnet LNROUTE Tea Store
+* [CoinClip](https://itunes.apple.com/us/app/coinclip-testnet/id1372927440) iOS
+
+
+### LN Exhange / Signals / API
+
+* [cryptoally.io](https://cryptoally.io/)
+  >CryptoAlly.io is a place to discover quotes of Satoshis and Bitcoin in 100+ currencies at real time. The value transfer of Satoshis is powered by Lightning Network.
+* [crypto.slamtrade.com](https://crypto.slamtrade.com/)
+  >24/7 streaming of high-performance Crypto-Currency trading signals presented in a single view for professional trading. Find out where to buy/sell or when to buy/sell at any point in time in seconds. Also discover liquidity, market making, and arbitraging opportunities.
+* [boltz.exchange](https://boltz.exchange/) ([*](https://medium.com/boltzhq/announcing-the-first-boltz-release-6cb630701432))
+  >An instant, account free, and non-custodial digital asset exchange built on top of the lightning network.
+* [suredbits.com](https://suredbits.com) - NFL, NBA and Crypto API’s -Use of API charged via Lightning Network per call or streaming period.
+  >Suredbits’ Lightning App API allows you to query NFL, NBA and Crypto Exchange data. Their NFL and NBA APIs offer multiple channels including teams, players, games, scores, and statistics. Their Crypto Exchange API allows you to stream data on Trades, Tickers and Order Books.
+* [www.zebpay.com](https://www.zebpay.com/)
+  >App-enabled cryptocurrency exchange and wallet provider, Zebpay, has announced that it is enabling Lightning Network payments for all its users. Zebpay claim that it will even pay the fees for Lightning transactions made through its wallet.
+
 
 
 ## Resources
